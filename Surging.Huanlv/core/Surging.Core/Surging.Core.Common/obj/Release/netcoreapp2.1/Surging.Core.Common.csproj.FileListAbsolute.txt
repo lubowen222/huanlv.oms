@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\surging\huanlv.oms\Surging.Huanlv\core\Surging.Core\Surging.Core.Common\bin\Release\netcoreapp2.1\Surging.Core.Common.deps.json
+C:\Users\Admin\Desktop\surging\huanlv.oms\Surging.Huanlv\core\Surging.Core\Surging.Core.Common\bin\Release\netcoreapp2.1\Surging.Core.Common.dll
+C:\Users\Admin\Desktop\surging\huanlv.oms\Surging.Huanlv\core\Surging.Core\Surging.Core.Common\bin\Release\netcoreapp2.1\Surging.Core.Common.pdb
+C:\Users\Admin\Desktop\surging\huanlv.oms\Surging.Huanlv\core\Surging.Core\Surging.Core.Common\bin\Release\netcoreapp2.1\Surging.Core.CPlatform.dll
+C:\Users\Admin\Desktop\surging\huanlv.oms\Surging.Huanlv\core\Surging.Core\Surging.Core.Common\bin\Release\netcoreapp2.1\Surging.Core.ServiceHosting.dll
+C:\Users\Admin\Desktop\surging\huanlv.oms\Surging.Huanlv\core\Surging.Core\Surging.Core.Common\bin\Release\netcoreapp2.1\Surging.Core.CPlatform.pdb
+C:\Users\Admin\Desktop\surging\huanlv.oms\Surging.Huanlv\core\Surging.Core\Surging.Core.Common\bin\Release\netcoreapp2.1\Surging.Core.ServiceHosting.pdb
+C:\Users\Admin\Desktop\surging\huanlv.oms\Surging.Huanlv\core\Surging.Core\Surging.Core.Common\obj\Release\netcoreapp2.1\Surging.Core.Common.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\surging\huanlv.oms\Surging.Huanlv\core\Surging.Core\Surging.Core.Common\obj\Release\netcoreapp2.1\Surging.Core.Common.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\surging\huanlv.oms\Surging.Huanlv\core\Surging.Core\Surging.Core.Common\obj\Release\netcoreapp2.1\Surging.Core.Common.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\surging\huanlv.oms\Surging.Huanlv\core\Surging.Core\Surging.Core.Common\obj\Release\netcoreapp2.1\Surging.Core.Common.AssemblyInfo.cs
+C:\Users\Admin\Desktop\surging\huanlv.oms\Surging.Huanlv\core\Surging.Core\Surging.Core.Common\obj\Release\netcoreapp2.1\Surging.Core.Common.csproj.CopyComplete
+C:\Users\Admin\Desktop\surging\huanlv.oms\Surging.Huanlv\core\Surging.Core\Surging.Core.Common\obj\Release\netcoreapp2.1\Surging.Core.Common.dll
+C:\Users\Admin\Desktop\surging\huanlv.oms\Surging.Huanlv\core\Surging.Core\Surging.Core.Common\obj\Release\netcoreapp2.1\Surging.Core.Common.pdb

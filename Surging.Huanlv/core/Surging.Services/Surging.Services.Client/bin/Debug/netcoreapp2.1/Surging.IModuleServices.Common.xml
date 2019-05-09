@@ -1,0 +1,138 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Surging.IModuleServices.Common</name>
+    </assembly>
+    <members>
+        <member name="M:Surging.IModuleServices.Common.IntercepteModule.RegisterBuilder(Surging.Core.CPlatform.Module.ContainerBuilderWrapper)">
+            <summary>
+            Inject dependent third-party components
+            </summary>
+            <param name="builder"></param>
+        </member>
+        <member name="M:Surging.IModuleServices.Common.IUserService.Authentication(Surging.IModuleServices.Common.Models.AuthenticationRequestData)">
+            <summary>
+            用戶授权
+            </summary>
+            <param name="requestData">请求参数</param>
+            <returns>用户模型</returns>
+        </member>
+        <member name="M:Surging.IModuleServices.Common.IUserService.GetUserName(System.Int32)">
+            <summary>
+            获取用户姓名
+            </summary>
+            <param name="id">用户编号</param>
+            <returns></returns>
+        </member>
+        <member name="M:Surging.IModuleServices.Common.IUserService.Exists(System.Int32)">
+            <summary>
+            判断是否存在
+            </summary>
+            <param name="id">用户编号</param>
+            <returns></returns>
+        </member>
+        <member name="M:Surging.IModuleServices.Common.IUserService.Save(Surging.IModuleServices.Common.Models.IdentityUser)">
+            <summary>
+            报错用户
+            </summary>
+            <param name="requestData">请求参数</param>
+            <returns></returns>
+        </member>
+        <member name="M:Surging.IModuleServices.Common.IUserService.GetUserId(System.String)">
+            <summary>
+            根据用户名获取用户ID
+            </summary>
+            <param name="userName">用户名</param>
+            <returns></returns>
+        </member>
+        <member name="M:Surging.IModuleServices.Common.IUserService.GetUserLastSignInTime(System.Int32)">
+            <summary>
+            获取用户最后次sign时间
+            </summary>
+            <param name="id">用户ID</param>
+            <returns></returns>
+        </member>
+        <member name="M:Surging.IModuleServices.Common.IUserService.GetUser(Surging.IModuleServices.Common.Models.UserModel)">
+            <summary>
+            获取用户
+            </summary>
+            <param name="user">用户模型</param>
+            <returns></returns>
+        </member>
+        <member name="M:Surging.IModuleServices.Common.IUserService.Update(System.Int32,Surging.IModuleServices.Common.Models.UserModel)">
+            <summary>
+            更新用户
+            </summary>
+            <param name="id">用户ID</param>
+            <param name="model">用户模型</param>
+            <returns></returns>
+        </member>
+        <member name="M:Surging.IModuleServices.Common.IUserService.Get(System.Collections.Generic.List{Surging.IModuleServices.Common.Models.UserModel})">
+            <summary>
+            测试List参数调用
+            </summary>
+            <param name="users">用户列表</param>
+            <returns>返回是否成功</returns>
+        </member>
+        <member name="M:Surging.IModuleServices.Common.IUserService.GetDictionary">
+            <summary>
+            测试无参数调用
+            </summary>
+            <returns>返回是否成功</returns>
+        </member>
+        <member name="M:Surging.IModuleServices.Common.IUserService.TryThrowException">
+            <summary>
+            测试异常
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:Surging.IModuleServices.Common.IUserService.PublishThroughEventBusAsync(Surging.Core.CPlatform.EventBus.Events.IntegrationEvent)">
+            <summary>
+            测试基于eventbus 推送消息
+            </summary>
+            <param name="evt1">Event 模型</param>
+            <returns></returns>
+        </member>
+        <member name="M:Surging.IModuleServices.Common.IUserService.GetApiResult">
+            <summary>
+            测试无参调用，返回泛型结果
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:Surging.IModuleServices.Common.IUserService.GetUser(System.Collections.Generic.List{System.Int32})">
+            <summary>
+            测试参数list参数
+            </summary>
+            <param name="idList">list 类型参数</param>
+            <returns></returns>
+        </member>
+        <member name="M:Surging.IModuleServices.Common.IUserService.GetUserById(System.Guid)">
+            <summary>
+            测序guid
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Surging.IModuleServices.Common.IUserService.UploadFile(Surging.Core.KestrelHttpServer.Internal.HttpFormCollection)">
+            <summary>
+            测试上传文件
+            </summary>
+            <param name="form">HttpFormCollection 类型参数</param>
+            <returns></returns>
+        </member>
+        <member name="M:Surging.IModuleServices.Common.IUserService.DownFile(System.String,System.String)">
+            <summary>
+            测试下载文件
+            </summary>
+            <param name="fileName">文件名</param>
+            <param name="contentType">Content-Type</param>
+            <returns></returns>
+        </member>
+        <member name="M:Surging.IModuleServices.Common.IUserService.GetAllThings">
+            <summary>
+            
+            </summary>
+            <returns></returns>
+        </member>
+    </members>
+</doc>

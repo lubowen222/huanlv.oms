@@ -1,0 +1,12 @@
+C:\Users\Admin\Desktop\surging\huanlv.oms\Surging.Huanlv\src\Servers\Passport\Huanlv.Passport.Application\bin\Debug\netcoreapp2.1\Huanlv.Passport.Application.deps.json
+C:\Users\Admin\Desktop\surging\huanlv.oms\Surging.Huanlv\src\Servers\Passport\Huanlv.Passport.Application\bin\Debug\netcoreapp2.1\Huanlv.Passport.Application.dll
+C:\Users\Admin\Desktop\surging\huanlv.oms\Surging.Huanlv\src\Servers\Passport\Huanlv.Passport.Application\bin\Debug\netcoreapp2.1\Huanlv.Passport.Application.pdb
+C:\Users\Admin\Desktop\surging\huanlv.oms\Surging.Huanlv\src\Servers\Passport\Huanlv.Passport.Application\obj\Debug\netcoreapp2.1\Huanlv.Passport.Application.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\surging\huanlv.oms\Surging.Huanlv\src\Servers\Passport\Huanlv.Passport.Application\obj\Debug\netcoreapp2.1\Huanlv.Passport.Application.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\surging\huanlv.oms\Surging.Huanlv\src\Servers\Passport\Huanlv.Passport.Application\obj\Debug\netcoreapp2.1\Huanlv.Passport.Application.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\surging\huanlv.oms\Surging.Huanlv\src\Servers\Passport\Huanlv.Passport.Application\obj\Debug\netcoreapp2.1\Huanlv.Passport.Application.AssemblyInfo.cs
+C:\Users\Admin\Desktop\surging\huanlv.oms\Surging.Huanlv\src\Servers\Passport\Huanlv.Passport.Application\obj\Debug\netcoreapp2.1\Huanlv.Passport.Application.dll
+C:\Users\Admin\Desktop\surging\huanlv.oms\Surging.Huanlv\src\Servers\Passport\Huanlv.Passport.Application\obj\Debug\netcoreapp2.1\Huanlv.Passport.Application.pdb
+C:\Users\Admin\Desktop\surging\huanlv.oms\Surging.Huanlv\src\Servers\Passport\Huanlv.Passport.Application\bin\Debug\netcoreapp2.1\Surging.Core.CPlatform.dll
+C:\Users\Admin\Desktop\surging\huanlv.oms\Surging.Huanlv\src\Servers\Passport\Huanlv.Passport.Application\bin\Debug\netcoreapp2.1\Surging.Core.ServiceHosting.dll
+C:\Users\Admin\Desktop\surging\huanlv.oms\Surging.Huanlv\src\Servers\Passport\Huanlv.Passport.Application\obj\Debug\netcoreapp2.1\Huanlv.Passport.Application.csproj.CopyComplete

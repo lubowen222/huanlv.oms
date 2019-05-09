@@ -1,0 +1,12 @@
+C:\Users\Admin\Desktop\surging\huanlv.oms\Surging.Huanlv\core\Surging.Core\Surging.Core.CPlatform\bin\Release\netcoreapp2.1\Surging.Core.CPlatform.deps.json
+C:\Users\Admin\Desktop\surging\huanlv.oms\Surging.Huanlv\core\Surging.Core\Surging.Core.CPlatform\bin\Release\netcoreapp2.1\Surging.Core.CPlatform.dll
+C:\Users\Admin\Desktop\surging\huanlv.oms\Surging.Huanlv\core\Surging.Core\Surging.Core.CPlatform\bin\Release\netcoreapp2.1\Surging.Core.CPlatform.pdb
+C:\Users\Admin\Desktop\surging\huanlv.oms\Surging.Huanlv\core\Surging.Core\Surging.Core.CPlatform\bin\Release\netcoreapp2.1\Surging.Core.ServiceHosting.dll
+C:\Users\Admin\Desktop\surging\huanlv.oms\Surging.Huanlv\core\Surging.Core\Surging.Core.CPlatform\bin\Release\netcoreapp2.1\Surging.Core.ServiceHosting.pdb
+C:\Users\Admin\Desktop\surging\huanlv.oms\Surging.Huanlv\core\Surging.Core\Surging.Core.CPlatform\obj\Release\netcoreapp2.1\Surging.Core.CPlatform.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\surging\huanlv.oms\Surging.Huanlv\core\Surging.Core\Surging.Core.CPlatform\obj\Release\netcoreapp2.1\Surging.Core.CPlatform.CPlatformResource.resources
+C:\Users\Admin\Desktop\surging\huanlv.oms\Surging.Huanlv\core\Surging.Core\Surging.Core.CPlatform\obj\Release\netcoreapp2.1\Surging.Core.CPlatform.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\surging\huanlv.oms\Surging.Huanlv\core\Surging.Core\Surging.Core.CPlatform\obj\Release\netcoreapp2.1\Surging.Core.CPlatform.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\surging\huanlv.oms\Surging.Huanlv\core\Surging.Core\Surging.Core.CPlatform\obj\Release\netcoreapp2.1\Surging.Core.CPlatform.csproj.CopyComplete
+C:\Users\Admin\Desktop\surging\huanlv.oms\Surging.Huanlv\core\Surging.Core\Surging.Core.CPlatform\obj\Release\netcoreapp2.1\Surging.Core.CPlatform.dll
+C:\Users\Admin\Desktop\surging\huanlv.oms\Surging.Huanlv\core\Surging.Core\Surging.Core.CPlatform\obj\Release\netcoreapp2.1\Surging.Core.CPlatform.pdb

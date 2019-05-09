@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\surging\huanlv.oms\Surging.Huanlv\core\Surging.Core\Surging.Core.DotNetty\bin\Debug\netcoreapp2.1\Surging.Core.DotNetty.deps.json
+C:\Users\Admin\Desktop\surging\huanlv.oms\Surging.Huanlv\core\Surging.Core\Surging.Core.DotNetty\bin\Debug\netcoreapp2.1\Surging.Core.DotNetty.dll
+C:\Users\Admin\Desktop\surging\huanlv.oms\Surging.Huanlv\core\Surging.Core\Surging.Core.DotNetty\bin\Debug\netcoreapp2.1\Surging.Core.DotNetty.pdb
+C:\Users\Admin\Desktop\surging\huanlv.oms\Surging.Huanlv\core\Surging.Core\Surging.Core.DotNetty\bin\Debug\netcoreapp2.1\Surging.Core.CPlatform.dll
+C:\Users\Admin\Desktop\surging\huanlv.oms\Surging.Huanlv\core\Surging.Core\Surging.Core.DotNetty\bin\Debug\netcoreapp2.1\Surging.Core.ServiceHosting.dll
+C:\Users\Admin\Desktop\surging\huanlv.oms\Surging.Huanlv\core\Surging.Core\Surging.Core.DotNetty\bin\Debug\netcoreapp2.1\Surging.Core.CPlatform.pdb
+C:\Users\Admin\Desktop\surging\huanlv.oms\Surging.Huanlv\core\Surging.Core\Surging.Core.DotNetty\bin\Debug\netcoreapp2.1\Surging.Core.ServiceHosting.pdb
+C:\Users\Admin\Desktop\surging\huanlv.oms\Surging.Huanlv\core\Surging.Core\Surging.Core.DotNetty\obj\Debug\netcoreapp2.1\Surging.Core.DotNetty.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\surging\huanlv.oms\Surging.Huanlv\core\Surging.Core\Surging.Core.DotNetty\obj\Debug\netcoreapp2.1\Surging.Core.DotNetty.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\surging\huanlv.oms\Surging.Huanlv\core\Surging.Core\Surging.Core.DotNetty\obj\Debug\netcoreapp2.1\Surging.Core.DotNetty.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\surging\huanlv.oms\Surging.Huanlv\core\Surging.Core\Surging.Core.DotNetty\obj\Debug\netcoreapp2.1\Surging.Core.DotNetty.AssemblyInfo.cs
+C:\Users\Admin\Desktop\surging\huanlv.oms\Surging.Huanlv\core\Surging.Core\Surging.Core.DotNetty\obj\Debug\netcoreapp2.1\Surging.Core.DotNetty.csproj.CopyComplete
+C:\Users\Admin\Desktop\surging\huanlv.oms\Surging.Huanlv\core\Surging.Core\Surging.Core.DotNetty\obj\Debug\netcoreapp2.1\Surging.Core.DotNetty.dll
+C:\Users\Admin\Desktop\surging\huanlv.oms\Surging.Huanlv\core\Surging.Core\Surging.Core.DotNetty\obj\Debug\netcoreapp2.1\Surging.Core.DotNetty.pdb

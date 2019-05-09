@@ -1,0 +1,6 @@
+Application层中主要组件就是Service,在领域驱动设计的架构里，Service的组织粒度和接口设计依据与传统Transaction Script风格的Service是一致的，但是两者的实现却有着质的区别。Transaction Script风格的Service是实现业务逻辑的主要场所，因此往往非常厚重。而在领域驱动设计的架构里，Application是非常“薄”的一层，所有的Service只负责协调并委派业务逻辑给领域对象进行处理，其本身并真正实现业务逻辑，绝大部分的业务逻辑都由领域对象承载和实现了，这是区别系统是Transaction Script架构还是Domain Model架构的重要标志。不管是Transaction Script风格还是Domain Model风格，Service都会与多种组件进行交互，这些组件包括：其他的Service、领域对象和Repository 或 DAO。
+--------------------- 
+作者：疾风sxp 
+来源：CSDN 
+原文：https://blog.csdn.net/rtuujnncc/article/details/79004557 
+版权声明：本文为博主原创文章，转载请附上博文链接！

@@ -1,0 +1,20 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="Surging.Core.CPlatform">
+      <HintPath>..\..\..\..\applib\3rdlib\surging\Surging.Core.CPlatform.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Entity\" />
+    <Folder Include="ValueObject\" />
+    <Folder Include="Event\" />
+    <Folder Include="Repository\" />
+  </ItemGroup>
+
+</Project>

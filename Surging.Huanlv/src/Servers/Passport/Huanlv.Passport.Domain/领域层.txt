@@ -1,0 +1,6 @@
+Domain层是整个系统的核心层，该层维护一个使用面向对象技术实现的领域模型，几乎全部的业务逻辑会在该层实现。Domain层包含 Entity（实体）、ValueObject(值对象)、Domain Event（领域事件）和Repository（仓储）等多种重要的领域组件。仓储是在领域层定义，在基础设施层实现
+--------------------- 
+作者：疾风sxp 
+来源：CSDN 
+原文：https://blog.csdn.net/rtuujnncc/article/details/79004557 
+版权声明：本文为博主原创文章，转载请附上博文链接！

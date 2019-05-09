@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\surging\huanlv.oms\Surging.Huanlv\core\Surging.Core\Surging.Core.NLog\bin\Debug\netcoreapp2.1\Surging.Core.Nlog.deps.json
+C:\Users\Admin\Desktop\surging\huanlv.oms\Surging.Huanlv\core\Surging.Core\Surging.Core.NLog\bin\Debug\netcoreapp2.1\Surging.Core.Nlog.dll
+C:\Users\Admin\Desktop\surging\huanlv.oms\Surging.Huanlv\core\Surging.Core\Surging.Core.NLog\bin\Debug\netcoreapp2.1\Surging.Core.Nlog.pdb
+C:\Users\Admin\Desktop\surging\huanlv.oms\Surging.Huanlv\core\Surging.Core\Surging.Core.NLog\bin\Debug\netcoreapp2.1\Surging.Core.CPlatform.dll
+C:\Users\Admin\Desktop\surging\huanlv.oms\Surging.Huanlv\core\Surging.Core\Surging.Core.NLog\bin\Debug\netcoreapp2.1\Surging.Core.ServiceHosting.dll
+C:\Users\Admin\Desktop\surging\huanlv.oms\Surging.Huanlv\core\Surging.Core\Surging.Core.NLog\bin\Debug\netcoreapp2.1\Surging.Core.CPlatform.pdb
+C:\Users\Admin\Desktop\surging\huanlv.oms\Surging.Huanlv\core\Surging.Core\Surging.Core.NLog\bin\Debug\netcoreapp2.1\Surging.Core.ServiceHosting.pdb
+C:\Users\Admin\Desktop\surging\huanlv.oms\Surging.Huanlv\core\Surging.Core\Surging.Core.NLog\obj\Debug\netcoreapp2.1\Surging.Core.Nlog.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\surging\huanlv.oms\Surging.Huanlv\core\Surging.Core\Surging.Core.NLog\obj\Debug\netcoreapp2.1\Surging.Core.Nlog.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\surging\huanlv.oms\Surging.Huanlv\core\Surging.Core\Surging.Core.NLog\obj\Debug\netcoreapp2.1\Surging.Core.Nlog.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\surging\huanlv.oms\Surging.Huanlv\core\Surging.Core\Surging.Core.NLog\obj\Debug\netcoreapp2.1\Surging.Core.Nlog.AssemblyInfo.cs
+C:\Users\Admin\Desktop\surging\huanlv.oms\Surging.Huanlv\core\Surging.Core\Surging.Core.NLog\obj\Debug\netcoreapp2.1\Surging.Core.Nlog.csproj.CopyComplete
+C:\Users\Admin\Desktop\surging\huanlv.oms\Surging.Huanlv\core\Surging.Core\Surging.Core.NLog\obj\Debug\netcoreapp2.1\Surging.Core.Nlog.dll
+C:\Users\Admin\Desktop\surging\huanlv.oms\Surging.Huanlv\core\Surging.Core\Surging.Core.NLog\obj\Debug\netcoreapp2.1\Surging.Core.Nlog.pdb
