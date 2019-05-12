@@ -1,0 +1,9 @@
+/Users/lubowen/Desktop/huanlv/project/oms/Surging.Huanlv/src/CommonComponents/Surging.Huanlv.Domain.Core/bin/Debug/netcoreapp2.1/Surging.Huanlv.Domain.Core.deps.json
+/Users/lubowen/Desktop/huanlv/project/oms/Surging.Huanlv/src/CommonComponents/Surging.Huanlv.Domain.Core/bin/Debug/netcoreapp2.1/Surging.Huanlv.Domain.Core.dll
+/Users/lubowen/Desktop/huanlv/project/oms/Surging.Huanlv/src/CommonComponents/Surging.Huanlv.Domain.Core/bin/Debug/netcoreapp2.1/Surging.Huanlv.Domain.Core.pdb
+/Users/lubowen/Desktop/huanlv/project/oms/Surging.Huanlv/src/CommonComponents/Surging.Huanlv.Domain.Core/obj/Debug/netcoreapp2.1/Surging.Huanlv.Domain.Core.csproj.CoreCompileInputs.cache
+/Users/lubowen/Desktop/huanlv/project/oms/Surging.Huanlv/src/CommonComponents/Surging.Huanlv.Domain.Core/obj/Debug/netcoreapp2.1/Surging.Huanlv.Domain.Core.AssemblyInfoInputs.cache
+/Users/lubowen/Desktop/huanlv/project/oms/Surging.Huanlv/src/CommonComponents/Surging.Huanlv.Domain.Core/obj/Debug/netcoreapp2.1/Surging.Huanlv.Domain.Core.AssemblyInfo.cs
+/Users/lubowen/Desktop/huanlv/project/oms/Surging.Huanlv/src/CommonComponents/Surging.Huanlv.Domain.Core/obj/Debug/netcoreapp2.1/Surging.Huanlv.Domain.Core.dll
+/Users/lubowen/Desktop/huanlv/project/oms/Surging.Huanlv/src/CommonComponents/Surging.Huanlv.Domain.Core/obj/Debug/netcoreapp2.1/Surging.Huanlv.Domain.Core.pdb
+/Users/lubowen/Desktop/huanlv/project/oms/Surging.Huanlv/src/CommonComponents/Surging.Huanlv.Domain.Core/obj/Debug/netcoreapp2.1/Surging.Huanlv.Domain.Core.csprojAssemblyReference.cache

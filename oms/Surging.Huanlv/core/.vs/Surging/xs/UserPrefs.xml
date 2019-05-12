@@ -1,0 +1,65 @@
+﻿<Properties StartupConfiguration="{5846D387-8371-4E49-97B7-2B5E688FC0FD}|Default">
+  <MonoDevelop.Ide.ItemProperties.Surging.Services.Surging.Services.Client PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="../src/Servers/Passport/Huanlv.Passport.Common/UserContext.cs">
+    <Files>
+      <File FileName="../src/Servers/Passport/Huanlv.Passport.Common/UserContext.cs" Line="9" Column="34" />
+      <File FileName="../src/Servers/Passport/Huanlv.Passport.Common/MediatorExtension.cs" Line="1" Column="15" />
+      <File FileName="../../../../demo/11/src/Services/Ordering/Ordering.Infrastructure/MediatorExtension.cs" Line="33" Column="1" />
+      <File FileName="../../../../demo/11/src/Services/Ordering/Ordering.Infrastructure/OrderingContext.cs" Line="152" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Christ3D" expanded="True">
+            <Node name="Christ3D.Domain" expanded="True">
+              <Node name="EventHandlers" expanded="True" />
+              <Node name="Events" expanded="True">
+                <Node name="Student" expanded="True" />
+              </Node>
+              <Node name="Interfaces" expanded="True" />
+              <Node name="Models" expanded="True" />
+            </Node>
+          </Node>
+          <Node />
+          <Node name="eShopOnContainers" expanded="True">
+            <Node name="src" expanded="True">
+              <Node name="Services" expanded="True">
+                <Node name="Ordering" expanded="True">
+                  <Node name="Ordering.Domain" expanded="True">
+                    <Node name="AggregatesModel" expanded="True">
+                      <Node name="OrderAggregate" expanded="True" />
+                    </Node>
+                  </Node>
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+          <Node />
+          <Node name="Surging.Huanlv.Oms" expanded="True">
+            <Node name="src" expanded="True">
+              <Node name="CommonComponents" expanded="True" />
+              <Node name="Servers" expanded="True">
+                <Node name="Passport" expanded="True">
+                  <Node name="Huanlv.Passport.Domain" expanded="True">
+                    <Node name="AggregatesModel" expanded="True">
+                      <Node name="UserAggregate" expanded="True" />
+                    </Node>
+                  </Node>
+                  <Node name="Huanlv.Passport.Infrastructure" expanded="True">
+                    <Node name="Dependencies" selected="True" />
+                  </Node>
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,17 @@
+﻿using System;
+namespace Huanlv.Passport.Domain.Exceptions
+{
+    public class UserDomainException : Exception
+    {
+        public UserDomainException()
+        { }
+
+        public UserDomainException(string message)
+            : base(message)
+        { }
+
+        public UserDomainException(string message, Exception innerException)
+            : base(message, innerException)
+        { }
+    }
+}

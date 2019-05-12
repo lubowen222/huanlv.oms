@@ -1,0 +1,68 @@
+﻿<Properties StartupConfiguration="{6A8DA2FB-5B58-4442-9884-8B35F2961DB5}|Default">
+  <MonoDevelop.Ide.ItemProperties.src.Servers.Passport.Huanlv.Passport.ServerHost PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="src/Servers/Passport/Huanlv.Passport.Domain/AggregatesModel/UserAggregate/UserStatus.cs">
+    <Files>
+      <File FileName="../../../demo/11/src/Services/Ordering/Ordering.Domain/AggregatesModel/OrderAggregate/Order.cs" Line="161" Column="45" />
+      <File FileName="../../../demo/11/src/Services/Ordering/Ordering.Domain/AggregatesModel/BuyerAggregate/Buyer.cs" Line="52" Column="17" />
+      <File FileName="../../../demo/11/src/Services/Ordering/Ordering.Domain/AggregatesModel/BuyerAggregate/IBuyerRepository.cs" Line="11" Column="17" />
+      <File FileName="../../../demo/11/src/Services/Ordering/Ordering.API/Application/DomainEventHandlers/OrderStartedEvent/ValidateOrAddBuyerAggregateWhenOrderStartedDomainEventHandler.cs" Line="43" Column="31" />
+      <File FileName="src/Servers/Passport/Huanlv.Passport.Domain/AggregatesModel/UserAggregate/User.cs" Line="43" Column="55" />
+      <File FileName="../../../demo/11/src/Services/Ordering/Ordering.Domain/Events/OrderCancelledDomainEvent.cs" Line="16" Column="10" />
+      <File FileName="src/Servers/Passport/Huanlv.Passport.Domain/AggregatesModel/UserAggregate/UserStatus.cs" Line="25" Column="18" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="eShopOnContainers" expanded="True">
+            <Node name="src" expanded="True">
+              <Node name="Services" expanded="True">
+                <Node name="Ordering" expanded="True">
+                  <Node name="Ordering.API" expanded="True">
+                    <Node name="Application" expanded="True">
+                      <Node name="Commands" expanded="True" />
+                    </Node>
+                  </Node>
+                  <Node name="Ordering.Domain" expanded="True">
+                    <Node name="AggregatesModel" expanded="True">
+                      <Node name="OrderAggregate" expanded="True" />
+                    </Node>
+                    <Node name="Events" expanded="True" />
+                    <Node name="Exceptions" expanded="True" />
+                  </Node>
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+          <Node name="Surging.Huanlv.Oms" expanded="True">
+            <Node name="src" expanded="True">
+              <Node name="CommonComponents" expanded="True">
+                <Node name="Surging.Huanlv.Domain.Core" expanded="True" />
+              </Node>
+              <Node name="Servers" expanded="True">
+                <Node name="Passport" expanded="True">
+                  <Node name="Huanlv.Passport.Domain" expanded="True">
+                    <Node name="AggregatesModel" expanded="True">
+                      <Node name="UserAggregate" expanded="True">
+                        <Node name="UserStatus.cs" selected="True" />
+                      </Node>
+                    </Node>
+                    <Node name="Events" expanded="True" />
+                    <Node name="Exceptions" expanded="True" />
+                  </Node>
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <RunToCursorBreakpoint file="/Users/lubowen/Desktop/huanlv/demo/11/src/Services/Ordering/Ordering.Infrastructure/OrderingContext.cs" line="27" column="35" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
