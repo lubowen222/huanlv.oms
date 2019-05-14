@@ -5,6 +5,13 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <PackageReference Include="MediatR" Version="7.0.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="protobuf-net">
+      <HintPath>..\..\..\..\applib\3rdlib\protobuf-net.dll</HintPath>
+    </Reference>
     <Reference Include="Surging.Core.CPlatform">
       <HintPath>..\..\..\..\applib\3rdlib\surging\Surging.Core.CPlatform.dll</HintPath>
     </Reference>

@@ -21,3 +21,16 @@ C:/Users/Admin/Desktop/surging/huanlv.oms/Surging.Huanlv/src/Servers/Passport/Hu
 /Users/lubowen/Desktop/huanlv/project/oms/Surging.Huanlv/src/Servers/Passport/Huanlv.Passport.IApplication/obj/Debug/netcoreapp2.1/Huanlv.Passport.Interfaces.csproj.CopyComplete
 /Users/lubowen/Desktop/huanlv/project/oms/Surging.Huanlv/src/Servers/Passport/Huanlv.Passport.IApplication/obj/Debug/netcoreapp2.1/Huanlv.Passport.Interfaces.dll
 /Users/lubowen/Desktop/huanlv/project/oms/Surging.Huanlv/src/Servers/Passport/Huanlv.Passport.IApplication/obj/Debug/netcoreapp2.1/Huanlv.Passport.Interfaces.pdb
+C:\Users\Admin\Desktop\surging\huanlv\huanlv.oms\oms\Surging.Huanlv\src\Servers\Passport\Huanlv.Passport.IApplication\bin\Debug\netcoreapp2.1\Huanlv.Passport.Interfaces.deps.json
+C:\Users\Admin\Desktop\surging\huanlv\huanlv.oms\oms\Surging.Huanlv\src\Servers\Passport\Huanlv.Passport.IApplication\bin\Debug\netcoreapp2.1\Huanlv.Passport.Interfaces.dll
+C:\Users\Admin\Desktop\surging\huanlv\huanlv.oms\oms\Surging.Huanlv\src\Servers\Passport\Huanlv.Passport.IApplication\bin\Debug\netcoreapp2.1\Huanlv.Passport.Interfaces.pdb
+C:\Users\Admin\Desktop\surging\huanlv\huanlv.oms\oms\Surging.Huanlv\src\Servers\Passport\Huanlv.Passport.IApplication\bin\Debug\netcoreapp2.1\protobuf-net.dll
+C:\Users\Admin\Desktop\surging\huanlv\huanlv.oms\oms\Surging.Huanlv\src\Servers\Passport\Huanlv.Passport.IApplication\bin\Debug\netcoreapp2.1\Surging.Core.CPlatform.dll
+C:\Users\Admin\Desktop\surging\huanlv\huanlv.oms\oms\Surging.Huanlv\src\Servers\Passport\Huanlv.Passport.IApplication\bin\Debug\netcoreapp2.1\Surging.Core.ServiceHosting.dll
+C:\Users\Admin\Desktop\surging\huanlv\huanlv.oms\oms\Surging.Huanlv\src\Servers\Passport\Huanlv.Passport.IApplication\obj\Debug\netcoreapp2.1\Huanlv.Passport.Interfaces.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\surging\huanlv\huanlv.oms\oms\Surging.Huanlv\src\Servers\Passport\Huanlv.Passport.IApplication\obj\Debug\netcoreapp2.1\Huanlv.Passport.Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\surging\huanlv\huanlv.oms\oms\Surging.Huanlv\src\Servers\Passport\Huanlv.Passport.IApplication\obj\Debug\netcoreapp2.1\Huanlv.Passport.Interfaces.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\surging\huanlv\huanlv.oms\oms\Surging.Huanlv\src\Servers\Passport\Huanlv.Passport.IApplication\obj\Debug\netcoreapp2.1\Huanlv.Passport.Interfaces.AssemblyInfo.cs
+C:\Users\Admin\Desktop\surging\huanlv\huanlv.oms\oms\Surging.Huanlv\src\Servers\Passport\Huanlv.Passport.IApplication\obj\Debug\netcoreapp2.1\Huanlv.Passport.Interfaces.csproj.CopyComplete
+C:\Users\Admin\Desktop\surging\huanlv\huanlv.oms\oms\Surging.Huanlv\src\Servers\Passport\Huanlv.Passport.IApplication\obj\Debug\netcoreapp2.1\Huanlv.Passport.Interfaces.dll
+C:\Users\Admin\Desktop\surging\huanlv\huanlv.oms\oms\Surging.Huanlv\src\Servers\Passport\Huanlv.Passport.IApplication\obj\Debug\netcoreapp2.1\Huanlv.Passport.Interfaces.pdb

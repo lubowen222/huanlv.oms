@@ -12,3 +12,17 @@ C:\Users\Admin\Desktop\surging\huanlv.oms\Surging.Huanlv\core\Surging.Core\Surgi
 C:\Users\Admin\Desktop\surging\huanlv.oms\Surging.Huanlv\core\Surging.Core\Surging.Core.ProxyGenerator\obj\Debug\netcoreapp2.1\Surging.Core.ProxyGenerator.csproj.CopyComplete
 C:\Users\Admin\Desktop\surging\huanlv.oms\Surging.Huanlv\core\Surging.Core\Surging.Core.ProxyGenerator\obj\Debug\netcoreapp2.1\Surging.Core.ProxyGenerator.dll
 C:\Users\Admin\Desktop\surging\huanlv.oms\Surging.Huanlv\core\Surging.Core\Surging.Core.ProxyGenerator\obj\Debug\netcoreapp2.1\Surging.Core.ProxyGenerator.pdb
+C:\Users\Admin\Desktop\surging\huanlv\huanlv.oms\oms\Surging.Huanlv\core\Surging.Core\Surging.Core.ProxyGenerator\bin\Debug\netcoreapp2.1\Surging.Core.ProxyGenerator.deps.json
+C:\Users\Admin\Desktop\surging\huanlv\huanlv.oms\oms\Surging.Huanlv\core\Surging.Core\Surging.Core.ProxyGenerator\bin\Debug\netcoreapp2.1\Surging.Core.ProxyGenerator.dll
+C:\Users\Admin\Desktop\surging\huanlv\huanlv.oms\oms\Surging.Huanlv\core\Surging.Core\Surging.Core.ProxyGenerator\bin\Debug\netcoreapp2.1\Surging.Core.ProxyGenerator.pdb
+C:\Users\Admin\Desktop\surging\huanlv\huanlv.oms\oms\Surging.Huanlv\core\Surging.Core\Surging.Core.ProxyGenerator\bin\Debug\netcoreapp2.1\Surging.Core.CPlatform.dll
+C:\Users\Admin\Desktop\surging\huanlv\huanlv.oms\oms\Surging.Huanlv\core\Surging.Core\Surging.Core.ProxyGenerator\bin\Debug\netcoreapp2.1\Surging.Core.ServiceHosting.dll
+C:\Users\Admin\Desktop\surging\huanlv\huanlv.oms\oms\Surging.Huanlv\core\Surging.Core\Surging.Core.ProxyGenerator\bin\Debug\netcoreapp2.1\Surging.Core.CPlatform.pdb
+C:\Users\Admin\Desktop\surging\huanlv\huanlv.oms\oms\Surging.Huanlv\core\Surging.Core\Surging.Core.ProxyGenerator\bin\Debug\netcoreapp2.1\Surging.Core.ServiceHosting.pdb
+C:\Users\Admin\Desktop\surging\huanlv\huanlv.oms\oms\Surging.Huanlv\core\Surging.Core\Surging.Core.ProxyGenerator\obj\Debug\netcoreapp2.1\Surging.Core.ProxyGenerator.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\surging\huanlv\huanlv.oms\oms\Surging.Huanlv\core\Surging.Core\Surging.Core.ProxyGenerator\obj\Debug\netcoreapp2.1\Surging.Core.ProxyGenerator.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\surging\huanlv\huanlv.oms\oms\Surging.Huanlv\core\Surging.Core\Surging.Core.ProxyGenerator\obj\Debug\netcoreapp2.1\Surging.Core.ProxyGenerator.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\surging\huanlv\huanlv.oms\oms\Surging.Huanlv\core\Surging.Core\Surging.Core.ProxyGenerator\obj\Debug\netcoreapp2.1\Surging.Core.ProxyGenerator.AssemblyInfo.cs
+C:\Users\Admin\Desktop\surging\huanlv\huanlv.oms\oms\Surging.Huanlv\core\Surging.Core\Surging.Core.ProxyGenerator\obj\Debug\netcoreapp2.1\Surging.Core.ProxyGenerator.csproj.CopyComplete
+C:\Users\Admin\Desktop\surging\huanlv\huanlv.oms\oms\Surging.Huanlv\core\Surging.Core\Surging.Core.ProxyGenerator\obj\Debug\netcoreapp2.1\Surging.Core.ProxyGenerator.dll
+C:\Users\Admin\Desktop\surging\huanlv\huanlv.oms\oms\Surging.Huanlv\core\Surging.Core\Surging.Core.ProxyGenerator\obj\Debug\netcoreapp2.1\Surging.Core.ProxyGenerator.pdb

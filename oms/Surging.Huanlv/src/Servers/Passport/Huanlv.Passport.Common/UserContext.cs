@@ -111,7 +111,7 @@ namespace Huanlv.Passport.Infrastructure
         public UserContext CreateDbContext(string[] args)
         {
             var optionsBuilder = new DbContextOptionsBuilder<UserContext>()
-                .UseMySql("Server=.;Initial Catalog=Microsoft.eShopOnContainers.Services.OrderingDb;Integrated Security=true");
+                .UseMySql("server=rm-uf6hih64340qr5j5k.mysql.rds.aliyuncs.com;user id=xkd_online;password=D9GVSPxy8hkEC3QAPG;database=Hishop_dev_Passport");
 
             return new UserContext(optionsBuilder.Options, new NoMediator());
         }
@@ -119,6 +119,11 @@ namespace Huanlv.Passport.Infrastructure
         class NoMediator : IMediator
         {
             public Task Publish<TNotification>(TNotification notification, CancellationToken cancellationToken = default(CancellationToken)) where TNotification : INotification
+            {
+                return Task.CompletedTask;
+            }
+
+            public Task Publish(object notification, CancellationToken cancellationToken = default(CancellationToken))
             {
                 return Task.CompletedTask;
             }

@@ -9,6 +9,8 @@ namespace Huanlv.Passport.Domain.AggregatesModel.UserAggregate
     {
         public long Id { get; private set; }
 
+        public int OemId { get; set; }
+
         public string Cellphone { get; private set; }
 
         public string Password { get; private set; }
@@ -20,14 +22,14 @@ namespace Huanlv.Passport.Domain.AggregatesModel.UserAggregate
 
         public User() { }
 
-        public User(string cellphone, string password) : this()
+        public User(int oemId, string cellphone, string password) : this()
         {
-            AddUserRegisterDomainEvent(cellphone, password);
+            AddUserRegisterDomainEvent(oemId, cellphone, password);
         }
 
-        private void AddUserRegisterDomainEvent(string cellphone,string password)
+        private void AddUserRegisterDomainEvent(int oemId, string cellphone, string password)
         {
-            var userRegisterDomainEvent = new UserRegisterDomainEvent(cellphone,password);
+            var userRegisterDomainEvent = new UserRegisterDomainEvent(oemId, cellphone, password);
 
             this.AddDomainEvent(userRegisterDomainEvent);
         }

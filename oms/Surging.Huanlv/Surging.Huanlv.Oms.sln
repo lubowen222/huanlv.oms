@@ -21,8 +21,6 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Senparc", "Senparc", "{652D
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Surging.Huanlv.Core", "src\CommonComponents\Surging.Huanlv.Core\Surging.Huanlv.Core.csproj", "{1D7F09F9-88DC-403D-863C-6BBF87A02A01}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Huanlv.Passport.Application", "src\Servers\Passport\Huanlv.Passport.Application\Huanlv.Passport.Application.csproj", "{32973E90-07C4-41CE-BE42-6F25A3D2FFC9}"
-EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Huanlv.Passport.Infrastructure", "src\Servers\Passport\Huanlv.Passport.Common\Huanlv.Passport.Infrastructure.csproj", "{95D5CF2B-B122-4A5B-B591-2F70E308082E}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Huanlv.Passport.Domain", "src\Servers\Passport\Huanlv.Passport.Domain\Huanlv.Passport.Domain.csproj", "{003A8F36-45D8-4C8A-8C63-F2609BD1E858}"
@@ -31,7 +29,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Huanlv.Passport.Interfaces"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Huanlv.Passport.ServerHost", "src\Servers\Passport\Huanlv.Passport.ServerHost\Huanlv.Passport.ServerHost.csproj", "{6A8DA2FB-5B58-4442-9884-8B35F2961DB5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Surging.Huanlv.Domain.Core", "src\CommonComponents\Surging.Huanlv.Domain.Core\Surging.Huanlv.Domain.Core.csproj", "{C27C4F13-65C4-4487-92AA-F23BEA8D2803}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Surging.Huanlv.Domain.Core", "src\CommonComponents\Surging.Huanlv.Domain.Core\Surging.Huanlv.Domain.Core.csproj", "{C27C4F13-65C4-4487-92AA-F23BEA8D2803}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -43,10 +41,6 @@ Global
 		{1D7F09F9-88DC-403D-863C-6BBF87A02A01}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1D7F09F9-88DC-403D-863C-6BBF87A02A01}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1D7F09F9-88DC-403D-863C-6BBF87A02A01}.Release|Any CPU.Build.0 = Release|Any CPU
-		{32973E90-07C4-41CE-BE42-6F25A3D2FFC9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{32973E90-07C4-41CE-BE42-6F25A3D2FFC9}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{32973E90-07C4-41CE-BE42-6F25A3D2FFC9}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{32973E90-07C4-41CE-BE42-6F25A3D2FFC9}.Release|Any CPU.Build.0 = Release|Any CPU
 		{95D5CF2B-B122-4A5B-B591-2F70E308082E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{95D5CF2B-B122-4A5B-B591-2F70E308082E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{95D5CF2B-B122-4A5B-B591-2F70E308082E}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -79,7 +73,6 @@ Global
 		{B626B376-9D9A-426A-8649-65AE858B50CB} = {C1C9F1DC-66B6-4739-9E5D-C58021542D8E}
 		{652D5E6E-E2FD-4B40-9F6D-BDB4E165FD89} = {DA773B22-02BD-415E-A383-BDB3AADC69DA}
 		{1D7F09F9-88DC-403D-863C-6BBF87A02A01} = {C81BE397-2C87-4C61-87DB-D7BB4FA16462}
-		{32973E90-07C4-41CE-BE42-6F25A3D2FFC9} = {179B1E98-B304-4234-96FF-24006C7E819C}
 		{95D5CF2B-B122-4A5B-B591-2F70E308082E} = {179B1E98-B304-4234-96FF-24006C7E819C}
 		{003A8F36-45D8-4C8A-8C63-F2609BD1E858} = {179B1E98-B304-4234-96FF-24006C7E819C}
 		{FEBC54B0-35BF-4A3B-80F2-EA67DCB0DE1C} = {179B1E98-B304-4234-96FF-24006C7E819C}

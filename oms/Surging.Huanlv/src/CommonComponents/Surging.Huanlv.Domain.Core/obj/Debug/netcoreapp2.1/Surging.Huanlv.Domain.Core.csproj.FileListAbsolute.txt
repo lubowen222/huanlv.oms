@@ -7,3 +7,12 @@
 /Users/lubowen/Desktop/huanlv/project/oms/Surging.Huanlv/src/CommonComponents/Surging.Huanlv.Domain.Core/obj/Debug/netcoreapp2.1/Surging.Huanlv.Domain.Core.dll
 /Users/lubowen/Desktop/huanlv/project/oms/Surging.Huanlv/src/CommonComponents/Surging.Huanlv.Domain.Core/obj/Debug/netcoreapp2.1/Surging.Huanlv.Domain.Core.pdb
 /Users/lubowen/Desktop/huanlv/project/oms/Surging.Huanlv/src/CommonComponents/Surging.Huanlv.Domain.Core/obj/Debug/netcoreapp2.1/Surging.Huanlv.Domain.Core.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\surging\huanlv\huanlv.oms\oms\Surging.Huanlv\src\CommonComponents\Surging.Huanlv.Domain.Core\bin\Debug\netcoreapp2.1\Surging.Huanlv.Domain.Core.deps.json
+C:\Users\Admin\Desktop\surging\huanlv\huanlv.oms\oms\Surging.Huanlv\src\CommonComponents\Surging.Huanlv.Domain.Core\bin\Debug\netcoreapp2.1\Surging.Huanlv.Domain.Core.dll
+C:\Users\Admin\Desktop\surging\huanlv\huanlv.oms\oms\Surging.Huanlv\src\CommonComponents\Surging.Huanlv.Domain.Core\bin\Debug\netcoreapp2.1\Surging.Huanlv.Domain.Core.pdb
+C:\Users\Admin\Desktop\surging\huanlv\huanlv.oms\oms\Surging.Huanlv\src\CommonComponents\Surging.Huanlv.Domain.Core\obj\Debug\netcoreapp2.1\Surging.Huanlv.Domain.Core.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\surging\huanlv\huanlv.oms\oms\Surging.Huanlv\src\CommonComponents\Surging.Huanlv.Domain.Core\obj\Debug\netcoreapp2.1\Surging.Huanlv.Domain.Core.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\surging\huanlv\huanlv.oms\oms\Surging.Huanlv\src\CommonComponents\Surging.Huanlv.Domain.Core\obj\Debug\netcoreapp2.1\Surging.Huanlv.Domain.Core.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\surging\huanlv\huanlv.oms\oms\Surging.Huanlv\src\CommonComponents\Surging.Huanlv.Domain.Core\obj\Debug\netcoreapp2.1\Surging.Huanlv.Domain.Core.AssemblyInfo.cs
+C:\Users\Admin\Desktop\surging\huanlv\huanlv.oms\oms\Surging.Huanlv\src\CommonComponents\Surging.Huanlv.Domain.Core\obj\Debug\netcoreapp2.1\Surging.Huanlv.Domain.Core.dll
+C:\Users\Admin\Desktop\surging\huanlv\huanlv.oms\oms\Surging.Huanlv\src\CommonComponents\Surging.Huanlv.Domain.Core\obj\Debug\netcoreapp2.1\Surging.Huanlv.Domain.Core.pdb

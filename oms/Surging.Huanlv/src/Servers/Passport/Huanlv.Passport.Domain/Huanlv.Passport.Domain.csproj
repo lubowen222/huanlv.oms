@@ -5,6 +5,9 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Reference Include="Microsoft.Extensions.Logging.Abstractions">
+      <HintPath>..\..\..\..\..\..\..\..\..\..\..\..\Program Files\dotnet\sdk\NuGetFallbackFolder\microsoft.extensions.logging.abstractions\2.1.1\lib\netstandard2.0\Microsoft.Extensions.Logging.Abstractions.dll</HintPath>
+    </Reference>
     <Reference Include="Surging.Core.CPlatform">
       <HintPath>..\..\..\..\applib\3rdlib\surging\Surging.Core.CPlatform.dll</HintPath>
     </Reference>
@@ -17,9 +20,11 @@
     <Compile Remove="Class1.cs" />
   </ItemGroup>
   <ItemGroup>
-    <Folder Include="AggregatesModel\" />
     <Folder Include="AggregatesModel\UserAggregate\" />
     <Folder Include="Exceptions\" />
     <Folder Include="Events\" />
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="MediatR" Version="7.0.0" />
   </ItemGroup>
 </Project>
