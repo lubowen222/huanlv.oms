@@ -26,12 +26,10 @@ C:/Users/Admin/Desktop/surging/huanlv.oms/Surging.Huanlv/src/Servers/Passport/Hu
 C:\Users\Admin\Desktop\surging\huanlv\huanlv.oms\oms\Surging.Huanlv\src\Servers\Passport\Huanlv.Passport.Domain\bin\Debug\netcoreapp2.1\Huanlv.Passport.Domain.deps.json
 C:\Users\Admin\Desktop\surging\huanlv\huanlv.oms\oms\Surging.Huanlv\src\Servers\Passport\Huanlv.Passport.Domain\bin\Debug\netcoreapp2.1\Huanlv.Passport.Domain.dll
 C:\Users\Admin\Desktop\surging\huanlv\huanlv.oms\oms\Surging.Huanlv\src\Servers\Passport\Huanlv.Passport.Domain\bin\Debug\netcoreapp2.1\Huanlv.Passport.Domain.pdb
-C:\Users\Admin\Desktop\surging\huanlv\huanlv.oms\oms\Surging.Huanlv\src\Servers\Passport\Huanlv.Passport.Domain\bin\Debug\netcoreapp2.1\Microsoft.Extensions.Logging.Abstractions.dll
 C:\Users\Admin\Desktop\surging\huanlv\huanlv.oms\oms\Surging.Huanlv\src\Servers\Passport\Huanlv.Passport.Domain\bin\Debug\netcoreapp2.1\Surging.Core.CPlatform.dll
 C:\Users\Admin\Desktop\surging\huanlv\huanlv.oms\oms\Surging.Huanlv\src\Servers\Passport\Huanlv.Passport.Domain\bin\Debug\netcoreapp2.1\Surging.Huanlv.Domain.Core.dll
 C:\Users\Admin\Desktop\surging\huanlv\huanlv.oms\oms\Surging.Huanlv\src\Servers\Passport\Huanlv.Passport.Domain\bin\Debug\netcoreapp2.1\Surging.Core.ServiceHosting.dll
 C:\Users\Admin\Desktop\surging\huanlv\huanlv.oms\oms\Surging.Huanlv\src\Servers\Passport\Huanlv.Passport.Domain\bin\Debug\netcoreapp2.1\Surging.Huanlv.Domain.Core.pdb
-C:\Users\Admin\Desktop\surging\huanlv\huanlv.oms\oms\Surging.Huanlv\src\Servers\Passport\Huanlv.Passport.Domain\bin\Debug\netcoreapp2.1\Microsoft.Extensions.Logging.Abstractions.xml
 C:\Users\Admin\Desktop\surging\huanlv\huanlv.oms\oms\Surging.Huanlv\src\Servers\Passport\Huanlv.Passport.Domain\obj\Debug\netcoreapp2.1\Huanlv.Passport.Domain.csprojAssemblyReference.cache
 C:\Users\Admin\Desktop\surging\huanlv\huanlv.oms\oms\Surging.Huanlv\src\Servers\Passport\Huanlv.Passport.Domain\obj\Debug\netcoreapp2.1\Huanlv.Passport.Domain.csproj.CoreCompileInputs.cache
 C:\Users\Admin\Desktop\surging\huanlv\huanlv.oms\oms\Surging.Huanlv\src\Servers\Passport\Huanlv.Passport.Domain\obj\Debug\netcoreapp2.1\Huanlv.Passport.Domain.AssemblyInfoInputs.cache
@@ -39,3 +37,5 @@ C:\Users\Admin\Desktop\surging\huanlv\huanlv.oms\oms\Surging.Huanlv\src\Servers\
 C:\Users\Admin\Desktop\surging\huanlv\huanlv.oms\oms\Surging.Huanlv\src\Servers\Passport\Huanlv.Passport.Domain\obj\Debug\netcoreapp2.1\Huanlv.Passport.Domain.csproj.CopyComplete
 C:\Users\Admin\Desktop\surging\huanlv\huanlv.oms\oms\Surging.Huanlv\src\Servers\Passport\Huanlv.Passport.Domain\obj\Debug\netcoreapp2.1\Huanlv.Passport.Domain.dll
 C:\Users\Admin\Desktop\surging\huanlv\huanlv.oms\oms\Surging.Huanlv\src\Servers\Passport\Huanlv.Passport.Domain\obj\Debug\netcoreapp2.1\Huanlv.Passport.Domain.pdb
+C:\Users\Admin\Desktop\surging\huanlv\huanlv.oms\oms\Surging.Huanlv\src\Servers\Passport\Huanlv.Passport.Domain\bin\Debug\netcoreapp2.1\Surging.Core.CPlatform.pdb
+C:\Users\Admin\Desktop\surging\huanlv\huanlv.oms\oms\Surging.Huanlv\src\Servers\Passport\Huanlv.Passport.Domain\bin\Debug\netcoreapp2.1\Surging.Core.ServiceHosting.pdb

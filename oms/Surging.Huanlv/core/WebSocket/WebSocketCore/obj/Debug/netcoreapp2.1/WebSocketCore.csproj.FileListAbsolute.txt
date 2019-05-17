@@ -10,9 +10,9 @@ C:\Users\Admin\Desktop\surging\huanlv.oms\Surging.Huanlv\core\WebSocket\WebSocke
 C:\Users\Admin\Desktop\surging\huanlv\huanlv.oms\oms\Surging.Huanlv\core\WebSocket\WebSocketCore\bin\Debug\netcoreapp2.1\WebSocketCore.deps.json
 C:\Users\Admin\Desktop\surging\huanlv\huanlv.oms\oms\Surging.Huanlv\core\WebSocket\WebSocketCore\bin\Debug\netcoreapp2.1\WebSocketCore.dll
 C:\Users\Admin\Desktop\surging\huanlv\huanlv.oms\oms\Surging.Huanlv\core\WebSocket\WebSocketCore\bin\Debug\netcoreapp2.1\WebSocketCore.pdb
-C:\Users\Admin\Desktop\surging\huanlv\huanlv.oms\oms\Surging.Huanlv\core\WebSocket\WebSocketCore\obj\Debug\netcoreapp2.1\WebSocketCore.csprojAssemblyReference.cache
 C:\Users\Admin\Desktop\surging\huanlv\huanlv.oms\oms\Surging.Huanlv\core\WebSocket\WebSocketCore\obj\Debug\netcoreapp2.1\WebSocketCore.csproj.CoreCompileInputs.cache
 C:\Users\Admin\Desktop\surging\huanlv\huanlv.oms\oms\Surging.Huanlv\core\WebSocket\WebSocketCore\obj\Debug\netcoreapp2.1\WebSocketCore.AssemblyInfoInputs.cache
 C:\Users\Admin\Desktop\surging\huanlv\huanlv.oms\oms\Surging.Huanlv\core\WebSocket\WebSocketCore\obj\Debug\netcoreapp2.1\WebSocketCore.AssemblyInfo.cs
 C:\Users\Admin\Desktop\surging\huanlv\huanlv.oms\oms\Surging.Huanlv\core\WebSocket\WebSocketCore\obj\Debug\netcoreapp2.1\WebSocketCore.dll
 C:\Users\Admin\Desktop\surging\huanlv\huanlv.oms\oms\Surging.Huanlv\core\WebSocket\WebSocketCore\obj\Debug\netcoreapp2.1\WebSocketCore.pdb
+C:\Users\Admin\Desktop\surging\huanlv\huanlv.oms\oms\Surging.Huanlv\core\WebSocket\WebSocketCore\obj\Debug\netcoreapp2.1\WebSocketCore.csprojAssemblyReference.cache

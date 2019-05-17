@@ -19,7 +19,6 @@ C:\Users\Admin\Desktop\surging\huanlv\huanlv.oms\oms\Surging.Huanlv\core\Surging
 C:\Users\Admin\Desktop\surging\huanlv\huanlv.oms\oms\Surging.Huanlv\core\Surging.IModuleServices\Surging.IModuleServices.Manger\bin\Debug\netcoreapp2.1\Surging.Core.ServiceHosting.dll
 C:\Users\Admin\Desktop\surging\huanlv\huanlv.oms\oms\Surging.Huanlv\core\Surging.IModuleServices\Surging.IModuleServices.Manger\bin\Debug\netcoreapp2.1\Surging.Core.CPlatform.pdb
 C:\Users\Admin\Desktop\surging\huanlv\huanlv.oms\oms\Surging.Huanlv\core\Surging.IModuleServices\Surging.IModuleServices.Manger\bin\Debug\netcoreapp2.1\Surging.Core.ServiceHosting.pdb
-C:\Users\Admin\Desktop\surging\huanlv\huanlv.oms\oms\Surging.Huanlv\core\Surging.IModuleServices\Surging.IModuleServices.Manger\obj\Debug\netcoreapp2.1\Surging.IModuleServices.Manager.csprojAssemblyReference.cache
 C:\Users\Admin\Desktop\surging\huanlv\huanlv.oms\oms\Surging.Huanlv\core\Surging.IModuleServices\Surging.IModuleServices.Manger\obj\Debug\netcoreapp2.1\Surging.IModuleServices.Manager.csproj.CoreCompileInputs.cache
 C:\Users\Admin\Desktop\surging\huanlv\huanlv.oms\oms\Surging.Huanlv\core\Surging.IModuleServices\Surging.IModuleServices.Manger\obj\Debug\netcoreapp2.1\Surging.IModuleServices.Manager.AssemblyInfoInputs.cache
 C:\Users\Admin\Desktop\surging\huanlv\huanlv.oms\oms\Surging.Huanlv\core\Surging.IModuleServices\Surging.IModuleServices.Manger\obj\Debug\netcoreapp2.1\Surging.IModuleServices.Manager.AssemblyInfo.cs

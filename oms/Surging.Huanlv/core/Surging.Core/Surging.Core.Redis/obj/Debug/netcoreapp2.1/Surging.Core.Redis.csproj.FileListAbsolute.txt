@@ -2,3 +2,7 @@ C:\Users\Admin\Desktop\surging\huanlv.oms\Surging.Huanlv\core\Surging.Core\Surgi
 C:\Users\Admin\Desktop\surging\huanlv.oms\Surging.Huanlv\core\Surging.Core\Surging.Core.Redis\obj\Debug\netcoreapp2.1\Surging.Core.Redis.csproj.CoreCompileInputs.cache
 C:\Users\Admin\Desktop\surging\huanlv.oms\Surging.Huanlv\core\Surging.Core\Surging.Core.Redis\obj\Debug\netcoreapp2.1\Surging.Core.Redis.AssemblyInfoInputs.cache
 C:\Users\Admin\Desktop\surging\huanlv.oms\Surging.Huanlv\core\Surging.Core\Surging.Core.Redis\obj\Debug\netcoreapp2.1\Surging.Core.Redis.AssemblyInfo.cs
+C:\Users\Admin\Desktop\surging\huanlv\huanlv.oms\oms\Surging.Huanlv\core\Surging.Core\Surging.Core.Redis\obj\Debug\netcoreapp2.1\Surging.Core.Redis.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\surging\huanlv\huanlv.oms\oms\Surging.Huanlv\core\Surging.Core\Surging.Core.Redis\obj\Debug\netcoreapp2.1\Surging.Core.Redis.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\surging\huanlv\huanlv.oms\oms\Surging.Huanlv\core\Surging.Core\Surging.Core.Redis\obj\Debug\netcoreapp2.1\Surging.Core.Redis.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\surging\huanlv\huanlv.oms\oms\Surging.Huanlv\core\Surging.Core\Surging.Core.Redis\obj\Debug\netcoreapp2.1\Surging.Core.Redis.AssemblyInfo.cs

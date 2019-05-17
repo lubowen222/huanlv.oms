@@ -19,10 +19,10 @@ C:\Users\Admin\Desktop\surging\huanlv\huanlv.oms\oms\Surging.Huanlv\core\Surging
 C:\Users\Admin\Desktop\surging\huanlv\huanlv.oms\oms\Surging.Huanlv\core\Surging.Core\Surging.Core.EventBusKafka\bin\Debug\netcoreapp2.1\Surging.Core.ServiceHosting.dll
 C:\Users\Admin\Desktop\surging\huanlv\huanlv.oms\oms\Surging.Huanlv\core\Surging.Core\Surging.Core.EventBusKafka\bin\Debug\netcoreapp2.1\Surging.Core.CPlatform.pdb
 C:\Users\Admin\Desktop\surging\huanlv\huanlv.oms\oms\Surging.Huanlv\core\Surging.Core\Surging.Core.EventBusKafka\bin\Debug\netcoreapp2.1\Surging.Core.ServiceHosting.pdb
-C:\Users\Admin\Desktop\surging\huanlv\huanlv.oms\oms\Surging.Huanlv\core\Surging.Core\Surging.Core.EventBusKafka\obj\Debug\netcoreapp2.1\Surging.Core.EventBusKafka.csprojAssemblyReference.cache
 C:\Users\Admin\Desktop\surging\huanlv\huanlv.oms\oms\Surging.Huanlv\core\Surging.Core\Surging.Core.EventBusKafka\obj\Debug\netcoreapp2.1\Surging.Core.EventBusKafka.csproj.CoreCompileInputs.cache
 C:\Users\Admin\Desktop\surging\huanlv\huanlv.oms\oms\Surging.Huanlv\core\Surging.Core\Surging.Core.EventBusKafka\obj\Debug\netcoreapp2.1\Surging.Core.EventBusKafka.AssemblyInfoInputs.cache
 C:\Users\Admin\Desktop\surging\huanlv\huanlv.oms\oms\Surging.Huanlv\core\Surging.Core\Surging.Core.EventBusKafka\obj\Debug\netcoreapp2.1\Surging.Core.EventBusKafka.AssemblyInfo.cs
 C:\Users\Admin\Desktop\surging\huanlv\huanlv.oms\oms\Surging.Huanlv\core\Surging.Core\Surging.Core.EventBusKafka\obj\Debug\netcoreapp2.1\Surging.Core.EventBusKafka.csproj.CopyComplete
 C:\Users\Admin\Desktop\surging\huanlv\huanlv.oms\oms\Surging.Huanlv\core\Surging.Core\Surging.Core.EventBusKafka\obj\Debug\netcoreapp2.1\Surging.Core.EventBusKafka.dll
 C:\Users\Admin\Desktop\surging\huanlv\huanlv.oms\oms\Surging.Huanlv\core\Surging.Core\Surging.Core.EventBusKafka\obj\Debug\netcoreapp2.1\Surging.Core.EventBusKafka.pdb
+C:\Users\Admin\Desktop\surging\huanlv\huanlv.oms\oms\Surging.Huanlv\core\Surging.Core\Surging.Core.EventBusKafka\obj\Debug\netcoreapp2.1\Surging.Core.EventBusKafka.csprojAssemblyReference.cache

@@ -19,10 +19,10 @@ C:\Users\Admin\Desktop\surging\huanlv\huanlv.oms\oms\Surging.Huanlv\core\Surging
 C:\Users\Admin\Desktop\surging\huanlv\huanlv.oms\oms\Surging.Huanlv\core\Surging.Core\Surging.Core.EventBusRabbitMQ\bin\Debug\netcoreapp2.1\Surging.Core.ServiceHosting.dll
 C:\Users\Admin\Desktop\surging\huanlv\huanlv.oms\oms\Surging.Huanlv\core\Surging.Core\Surging.Core.EventBusRabbitMQ\bin\Debug\netcoreapp2.1\Surging.Core.CPlatform.pdb
 C:\Users\Admin\Desktop\surging\huanlv\huanlv.oms\oms\Surging.Huanlv\core\Surging.Core\Surging.Core.EventBusRabbitMQ\bin\Debug\netcoreapp2.1\Surging.Core.ServiceHosting.pdb
-C:\Users\Admin\Desktop\surging\huanlv\huanlv.oms\oms\Surging.Huanlv\core\Surging.Core\Surging.Core.EventBusRabbitMQ\obj\Debug\netcoreapp2.1\Surging.Core.EventBusRabbitMQ.csprojAssemblyReference.cache
 C:\Users\Admin\Desktop\surging\huanlv\huanlv.oms\oms\Surging.Huanlv\core\Surging.Core\Surging.Core.EventBusRabbitMQ\obj\Debug\netcoreapp2.1\Surging.Core.EventBusRabbitMQ.csproj.CoreCompileInputs.cache
 C:\Users\Admin\Desktop\surging\huanlv\huanlv.oms\oms\Surging.Huanlv\core\Surging.Core\Surging.Core.EventBusRabbitMQ\obj\Debug\netcoreapp2.1\Surging.Core.EventBusRabbitMQ.AssemblyInfoInputs.cache
 C:\Users\Admin\Desktop\surging\huanlv\huanlv.oms\oms\Surging.Huanlv\core\Surging.Core\Surging.Core.EventBusRabbitMQ\obj\Debug\netcoreapp2.1\Surging.Core.EventBusRabbitMQ.AssemblyInfo.cs
 C:\Users\Admin\Desktop\surging\huanlv\huanlv.oms\oms\Surging.Huanlv\core\Surging.Core\Surging.Core.EventBusRabbitMQ\obj\Debug\netcoreapp2.1\Surging.Core.EventBusRabbitMQ.csproj.CopyComplete
 C:\Users\Admin\Desktop\surging\huanlv\huanlv.oms\oms\Surging.Huanlv\core\Surging.Core\Surging.Core.EventBusRabbitMQ\obj\Debug\netcoreapp2.1\Surging.Core.EventBusRabbitMQ.dll
 C:\Users\Admin\Desktop\surging\huanlv\huanlv.oms\oms\Surging.Huanlv\core\Surging.Core\Surging.Core.EventBusRabbitMQ\obj\Debug\netcoreapp2.1\Surging.Core.EventBusRabbitMQ.pdb
+C:\Users\Admin\Desktop\surging\huanlv\huanlv.oms\oms\Surging.Huanlv\core\Surging.Core\Surging.Core.EventBusRabbitMQ\obj\Debug\netcoreapp2.1\Surging.Core.EventBusRabbitMQ.csprojAssemblyReference.cache

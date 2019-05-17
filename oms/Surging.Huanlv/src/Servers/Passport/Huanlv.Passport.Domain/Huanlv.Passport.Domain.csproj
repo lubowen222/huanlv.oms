@@ -8,12 +8,10 @@
     <Reference Include="Microsoft.Extensions.Logging.Abstractions">
       <HintPath>..\..\..\..\..\..\..\..\..\..\..\..\Program Files\dotnet\sdk\NuGetFallbackFolder\microsoft.extensions.logging.abstractions\2.1.1\lib\netstandard2.0\Microsoft.Extensions.Logging.Abstractions.dll</HintPath>
     </Reference>
-    <Reference Include="Surging.Core.CPlatform">
-      <HintPath>..\..\..\..\applib\3rdlib\surging\Surging.Core.CPlatform.dll</HintPath>
-    </Reference>
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\..\..\..\core\Surging.Core\Surging.Core.CPlatform\Surging.Core.CPlatform.csproj" />
     <ProjectReference Include="..\..\..\CommonComponents\Surging.Huanlv.Domain.Core\Surging.Huanlv.Domain.Core.csproj" />
   </ItemGroup>
   <ItemGroup>

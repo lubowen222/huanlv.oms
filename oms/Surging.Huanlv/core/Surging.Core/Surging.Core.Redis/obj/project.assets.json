@@ -6950,11 +6950,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Admin\\Desktop\\surging\\huanlv.oms\\Surging.Huanlv\\core\\Surging.Core\\Surging.Core.Redis\\Surging.Core.Redis.csproj",
+      "projectUniqueName": "C:\\Users\\Admin\\Desktop\\surging\\huanlv\\huanlv.oms\\oms\\Surging.Huanlv\\core\\Surging.Core\\Surging.Core.Redis\\Surging.Core.Redis.csproj",
       "projectName": "Surging.Core.Redis",
-      "projectPath": "C:\\Users\\Admin\\Desktop\\surging\\huanlv.oms\\Surging.Huanlv\\core\\Surging.Core\\Surging.Core.Redis\\Surging.Core.Redis.csproj",
+      "projectPath": "C:\\Users\\Admin\\Desktop\\surging\\huanlv\\huanlv.oms\\oms\\Surging.Huanlv\\core\\Surging.Core\\Surging.Core.Redis\\Surging.Core.Redis.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Admin\\Desktop\\surging\\huanlv.oms\\Surging.Huanlv\\core\\Surging.Core\\Surging.Core.Redis\\obj\\",
+      "outputPath": "C:\\Users\\Admin\\Desktop\\surging\\huanlv\\huanlv.oms\\oms\\Surging.Huanlv\\core\\Surging.Core\\Surging.Core.Redis\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -6973,8 +6973,8 @@
       "frameworks": {
         "netcoreapp2.1": {
           "projectReferences": {
-            "C:\\Users\\Admin\\Desktop\\surging\\huanlv.oms\\Surging.Huanlv\\core\\Surging.Core\\Surging.Core.CPlatform\\Surging.Core.CPlatform.csproj": {
-              "projectPath": "C:\\Users\\Admin\\Desktop\\surging\\huanlv.oms\\Surging.Huanlv\\core\\Surging.Core\\Surging.Core.CPlatform\\Surging.Core.CPlatform.csproj"
+            "C:\\Users\\Admin\\Desktop\\surging\\huanlv\\huanlv.oms\\oms\\Surging.Huanlv\\core\\Surging.Core\\Surging.Core.CPlatform\\Surging.Core.CPlatform.csproj": {
+              "projectPath": "C:\\Users\\Admin\\Desktop\\surging\\huanlv\\huanlv.oms\\oms\\Surging.Huanlv\\core\\Surging.Core\\Surging.Core.CPlatform\\Surging.Core.CPlatform.csproj"
             }
           }
         }

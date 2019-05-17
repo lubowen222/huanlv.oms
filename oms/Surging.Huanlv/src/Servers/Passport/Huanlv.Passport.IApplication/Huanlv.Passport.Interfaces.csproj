@@ -9,12 +9,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Reference Include="protobuf-net">
-      <HintPath>..\..\..\..\applib\3rdlib\protobuf-net.dll</HintPath>
-    </Reference>
-    <Reference Include="Surging.Core.CPlatform">
-      <HintPath>..\..\..\..\applib\3rdlib\surging\Surging.Core.CPlatform.dll</HintPath>
-    </Reference>
+    <ProjectReference Include="..\..\..\..\core\Surging.Core\Surging.Core.CPlatform\Surging.Core.CPlatform.csproj" />
   </ItemGroup>
 
 </Project>

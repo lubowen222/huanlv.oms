@@ -39,3 +39,7 @@ C:\Users\Admin\Desktop\surging\huanlv\huanlv.oms\oms\Surging.Huanlv\src\Servers\
 C:\Users\Admin\Desktop\surging\huanlv\huanlv.oms\oms\Surging.Huanlv\src\Servers\Passport\Huanlv.Passport.Common\obj\Debug\netcoreapp2.1\Huanlv.Passport.Infrastructure.csproj.CopyComplete
 C:\Users\Admin\Desktop\surging\huanlv\huanlv.oms\oms\Surging.Huanlv\src\Servers\Passport\Huanlv.Passport.Common\obj\Debug\netcoreapp2.1\Huanlv.Passport.Infrastructure.dll
 C:\Users\Admin\Desktop\surging\huanlv\huanlv.oms\oms\Surging.Huanlv\src\Servers\Passport\Huanlv.Passport.Common\obj\Debug\netcoreapp2.1\Huanlv.Passport.Infrastructure.pdb
+C:\Users\Admin\Desktop\surging\huanlv\huanlv.oms\oms\Surging.Huanlv\src\Servers\Passport\Huanlv.Passport.Common\bin\Debug\netcoreapp2.1\Surging.Core.CPlatform.dll
+C:\Users\Admin\Desktop\surging\huanlv\huanlv.oms\oms\Surging.Huanlv\src\Servers\Passport\Huanlv.Passport.Common\bin\Debug\netcoreapp2.1\Surging.Core.ServiceHosting.dll
+C:\Users\Admin\Desktop\surging\huanlv\huanlv.oms\oms\Surging.Huanlv\src\Servers\Passport\Huanlv.Passport.Common\bin\Debug\netcoreapp2.1\Surging.Core.CPlatform.pdb
+C:\Users\Admin\Desktop\surging\huanlv\huanlv.oms\oms\Surging.Huanlv\src\Servers\Passport\Huanlv.Passport.Common\bin\Debug\netcoreapp2.1\Surging.Core.ServiceHosting.pdb

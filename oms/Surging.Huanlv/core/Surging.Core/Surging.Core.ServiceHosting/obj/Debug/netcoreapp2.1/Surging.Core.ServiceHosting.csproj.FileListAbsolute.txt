@@ -17,9 +17,9 @@ C:/Users/Admin/Desktop/surging/huanlv.oms/Surging.Huanlv/core/Surging.Core/Surgi
 C:\Users\Admin\Desktop\surging\huanlv\huanlv.oms\oms\Surging.Huanlv\core\Surging.Core\Surging.Core.ServiceHosting\bin\Debug\netcoreapp2.1\Surging.Core.ServiceHosting.deps.json
 C:\Users\Admin\Desktop\surging\huanlv\huanlv.oms\oms\Surging.Huanlv\core\Surging.Core\Surging.Core.ServiceHosting\bin\Debug\netcoreapp2.1\Surging.Core.ServiceHosting.dll
 C:\Users\Admin\Desktop\surging\huanlv\huanlv.oms\oms\Surging.Huanlv\core\Surging.Core\Surging.Core.ServiceHosting\bin\Debug\netcoreapp2.1\Surging.Core.ServiceHosting.pdb
-C:\Users\Admin\Desktop\surging\huanlv\huanlv.oms\oms\Surging.Huanlv\core\Surging.Core\Surging.Core.ServiceHosting\obj\Debug\netcoreapp2.1\Surging.Core.ServiceHosting.csprojAssemblyReference.cache
 C:\Users\Admin\Desktop\surging\huanlv\huanlv.oms\oms\Surging.Huanlv\core\Surging.Core\Surging.Core.ServiceHosting\obj\Debug\netcoreapp2.1\Surging.Core.ServiceHosting.csproj.CoreCompileInputs.cache
 C:\Users\Admin\Desktop\surging\huanlv\huanlv.oms\oms\Surging.Huanlv\core\Surging.Core\Surging.Core.ServiceHosting\obj\Debug\netcoreapp2.1\Surging.Core.ServiceHosting.AssemblyInfoInputs.cache
 C:\Users\Admin\Desktop\surging\huanlv\huanlv.oms\oms\Surging.Huanlv\core\Surging.Core\Surging.Core.ServiceHosting\obj\Debug\netcoreapp2.1\Surging.Core.ServiceHosting.AssemblyInfo.cs
 C:\Users\Admin\Desktop\surging\huanlv\huanlv.oms\oms\Surging.Huanlv\core\Surging.Core\Surging.Core.ServiceHosting\obj\Debug\netcoreapp2.1\Surging.Core.ServiceHosting.dll
 C:\Users\Admin\Desktop\surging\huanlv\huanlv.oms\oms\Surging.Huanlv\core\Surging.Core\Surging.Core.ServiceHosting\obj\Debug\netcoreapp2.1\Surging.Core.ServiceHosting.pdb
+C:\Users\Admin\Desktop\surging\huanlv\huanlv.oms\oms\Surging.Huanlv\core\Surging.Core\Surging.Core.ServiceHosting\obj\Debug\netcoreapp2.1\Surging.Core.ServiceHosting.csprojAssemblyReference.cache

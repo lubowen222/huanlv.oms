@@ -82,7 +82,7 @@
     "RetryCount": "${RetryCount}|1",
     "FailCount": "${FailCount}|3",
     "prefetchCount": "${PrefetchCount}|0",
-    "BrokerName": "${BrokerName}|surging_demo",
+    "BrokerName": "${BrokerName}|huanlv_oms",
     "Port": "${EventBusPort}|5672"
   },
   "Zookeeper": {
