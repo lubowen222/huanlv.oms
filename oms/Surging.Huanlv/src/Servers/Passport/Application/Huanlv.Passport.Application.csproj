@@ -1,0 +1,20 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="FluentValidation" Version="8.4.0" />
+    <PackageReference Include="Serilog" Version="2.8.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\..\..\core\Surging.Core\Surging.Core.Dapper\Surging.Core.Dapper.csproj" />
+    <ProjectReference Include="..\..\..\..\core\Surging.Core\Surging.Core.Domain\Surging.Core.Domain.csproj" />
+    <ProjectReference Include="..\..\..\..\core\Surging.Core\Surging.Core.ProxyGenerator\Surging.Core.ProxyGenerator.csproj" />
+    <ProjectReference Include="..\Domain\Huanlv.Passport.Domain.csproj" />
+    <ProjectReference Include="..\IApplication\Huanlv.Passport.IApplication.csproj" />
+  </ItemGroup>
+
+</Project>

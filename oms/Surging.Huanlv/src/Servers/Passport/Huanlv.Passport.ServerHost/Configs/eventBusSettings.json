@@ -1,7 +1,0 @@
-{
-  "EventBusConnection": "${EventBusConnection}|localhost",
-  "VirtualHost": "/",
-  "BrokerName": "surging_passport",
-  "Port": "5672"
-}
-

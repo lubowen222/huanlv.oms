@@ -1,0 +1,30 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="Microsoft.Extensions.Logging.Abstractions">
+      <HintPath>..\..\..\..\..\..\..\..\..\..\..\..\Program Files\dotnet\sdk\NuGetFallbackFolder\microsoft.extensions.logging.abstractions\2.1.1\lib\netstandard2.0\Microsoft.Extensions.Logging.Abstractions.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\..\..\core\Surging.Core\Surging.Core.CPlatform\Surging.Core.CPlatform.csproj" />
+    <ProjectReference Include="..\..\..\..\core\Surging.Core\Surging.Core.Dapper\Surging.Core.Dapper.csproj" />
+    <ProjectReference Include="..\..\..\..\core\Surging.Core\Surging.Core.Domain\Surging.Core.Domain.csproj" />
+    <ProjectReference Include="..\..\..\..\core\Surging.Core\Surging.Core.EventBusRabbitMQ\Surging.Core.EventBusRabbitMQ.csproj" />
+    <ProjectReference Include="..\..\..\..\core\Surging.Core\Surging.Core.Protocol.Mqtt\Surging.Core.Protocol.Mqtt.csproj" />
+    <ProjectReference Include="..\..\..\..\core\Surging.Core\Surging.Core.Protocol.WS\Surging.Core.Protocol.WS.csproj" />
+    <ProjectReference Include="..\..\..\..\core\WebSocket\WebSocketCore\WebSocketCore.csproj" />
+    <ProjectReference Include="..\..\..\CommonComponents\Surging.Huanlv.Core\Surging.Huanlv.Core.csproj" />
+    <ProjectReference Include="..\..\..\CommonComponents\Surging.Huanlv.Domain.Core\Surging.Huanlv.Domain.Core.csproj" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Remove="Class1.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="MediatR" Version="7.0.0" />
+  </ItemGroup>
+</Project>

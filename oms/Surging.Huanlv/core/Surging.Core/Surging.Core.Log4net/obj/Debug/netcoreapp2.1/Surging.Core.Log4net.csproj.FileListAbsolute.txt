@@ -19,10 +19,10 @@ C:\Users\Admin\Desktop\surging\huanlv\huanlv.oms\oms\Surging.Huanlv\core\Surging
 C:\Users\Admin\Desktop\surging\huanlv\huanlv.oms\oms\Surging.Huanlv\core\Surging.Core\Surging.Core.Log4net\bin\Debug\netcoreapp2.1\Surging.Core.ServiceHosting.dll
 C:\Users\Admin\Desktop\surging\huanlv\huanlv.oms\oms\Surging.Huanlv\core\Surging.Core\Surging.Core.Log4net\bin\Debug\netcoreapp2.1\Surging.Core.CPlatform.pdb
 C:\Users\Admin\Desktop\surging\huanlv\huanlv.oms\oms\Surging.Huanlv\core\Surging.Core\Surging.Core.Log4net\bin\Debug\netcoreapp2.1\Surging.Core.ServiceHosting.pdb
+C:\Users\Admin\Desktop\surging\huanlv\huanlv.oms\oms\Surging.Huanlv\core\Surging.Core\Surging.Core.Log4net\obj\Debug\netcoreapp2.1\Surging.Core.Log4net.csprojAssemblyReference.cache
 C:\Users\Admin\Desktop\surging\huanlv\huanlv.oms\oms\Surging.Huanlv\core\Surging.Core\Surging.Core.Log4net\obj\Debug\netcoreapp2.1\Surging.Core.Log4net.csproj.CoreCompileInputs.cache
 C:\Users\Admin\Desktop\surging\huanlv\huanlv.oms\oms\Surging.Huanlv\core\Surging.Core\Surging.Core.Log4net\obj\Debug\netcoreapp2.1\Surging.Core.Log4net.AssemblyInfoInputs.cache
 C:\Users\Admin\Desktop\surging\huanlv\huanlv.oms\oms\Surging.Huanlv\core\Surging.Core\Surging.Core.Log4net\obj\Debug\netcoreapp2.1\Surging.Core.Log4net.AssemblyInfo.cs
 C:\Users\Admin\Desktop\surging\huanlv\huanlv.oms\oms\Surging.Huanlv\core\Surging.Core\Surging.Core.Log4net\obj\Debug\netcoreapp2.1\Surging.Core.Log4net.csproj.CopyComplete
 C:\Users\Admin\Desktop\surging\huanlv\huanlv.oms\oms\Surging.Huanlv\core\Surging.Core\Surging.Core.Log4net\obj\Debug\netcoreapp2.1\Surging.Core.Log4net.dll
 C:\Users\Admin\Desktop\surging\huanlv\huanlv.oms\oms\Surging.Huanlv\core\Surging.Core\Surging.Core.Log4net\obj\Debug\netcoreapp2.1\Surging.Core.Log4net.pdb
-C:\Users\Admin\Desktop\surging\huanlv\huanlv.oms\oms\Surging.Huanlv\core\Surging.Core\Surging.Core.Log4net\obj\Debug\netcoreapp2.1\Surging.Core.Log4net.csprojAssemblyReference.cache

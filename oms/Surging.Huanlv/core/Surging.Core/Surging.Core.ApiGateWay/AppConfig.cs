@@ -73,6 +73,20 @@ namespace Surging.Core.ApiGateWay
             }
         }
 
+        private static string _authenticationRoutePath = "oauth2/token";
+
+        public static string AuthenticationRoutePath
+        {
+            get
+            {
+                return Configuration["AuthenticationRoutePath"] ?? _authenticationRoutePath;
+            }
+            internal set
+            {
+                _authenticationRoutePath = value;
+            }
+        }
+
         public static Register Register
         {
             get

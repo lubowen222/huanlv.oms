@@ -1,0 +1,16 @@
+C:\Users\Admin\Desktop\surging\huanlv\huanlv.oms\oms\Surging.Huanlv\core\Surging.Core\Surging.Core.Dapper\bin\Debug\netcoreapp2.1\Surging.Core.Dapper.deps.json
+C:\Users\Admin\Desktop\surging\huanlv\huanlv.oms\oms\Surging.Huanlv\core\Surging.Core\Surging.Core.Dapper\bin\Debug\netcoreapp2.1\Surging.Core.Dapper.dll
+C:\Users\Admin\Desktop\surging\huanlv\huanlv.oms\oms\Surging.Huanlv\core\Surging.Core\Surging.Core.Dapper\bin\Debug\netcoreapp2.1\Surging.Core.Dapper.pdb
+C:\Users\Admin\Desktop\surging\huanlv\huanlv.oms\oms\Surging.Huanlv\core\Surging.Core\Surging.Core.Dapper\bin\Debug\netcoreapp2.1\Surging.Core.CPlatform.dll
+C:\Users\Admin\Desktop\surging\huanlv\huanlv.oms\oms\Surging.Huanlv\core\Surging.Core\Surging.Core.Dapper\bin\Debug\netcoreapp2.1\Surging.Core.Domain.dll
+C:\Users\Admin\Desktop\surging\huanlv\huanlv.oms\oms\Surging.Huanlv\core\Surging.Core\Surging.Core.Dapper\bin\Debug\netcoreapp2.1\Surging.Core.ServiceHosting.dll
+C:\Users\Admin\Desktop\surging\huanlv\huanlv.oms\oms\Surging.Huanlv\core\Surging.Core\Surging.Core.Dapper\bin\Debug\netcoreapp2.1\Surging.Core.CPlatform.pdb
+C:\Users\Admin\Desktop\surging\huanlv\huanlv.oms\oms\Surging.Huanlv\core\Surging.Core\Surging.Core.Dapper\bin\Debug\netcoreapp2.1\Surging.Core.Domain.pdb
+C:\Users\Admin\Desktop\surging\huanlv\huanlv.oms\oms\Surging.Huanlv\core\Surging.Core\Surging.Core.Dapper\bin\Debug\netcoreapp2.1\Surging.Core.ServiceHosting.pdb
+C:\Users\Admin\Desktop\surging\huanlv\huanlv.oms\oms\Surging.Huanlv\core\Surging.Core\Surging.Core.Dapper\obj\Debug\netcoreapp2.1\Surging.Core.Dapper.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\surging\huanlv\huanlv.oms\oms\Surging.Huanlv\core\Surging.Core\Surging.Core.Dapper\obj\Debug\netcoreapp2.1\Surging.Core.Dapper.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\surging\huanlv\huanlv.oms\oms\Surging.Huanlv\core\Surging.Core\Surging.Core.Dapper\obj\Debug\netcoreapp2.1\Surging.Core.Dapper.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\surging\huanlv\huanlv.oms\oms\Surging.Huanlv\core\Surging.Core\Surging.Core.Dapper\obj\Debug\netcoreapp2.1\Surging.Core.Dapper.AssemblyInfo.cs
+C:\Users\Admin\Desktop\surging\huanlv\huanlv.oms\oms\Surging.Huanlv\core\Surging.Core\Surging.Core.Dapper\obj\Debug\netcoreapp2.1\Surging.Core.Dapper.csproj.CopyComplete
+C:\Users\Admin\Desktop\surging\huanlv\huanlv.oms\oms\Surging.Huanlv\core\Surging.Core\Surging.Core.Dapper\obj\Debug\netcoreapp2.1\Surging.Core.Dapper.dll
+C:\Users\Admin\Desktop\surging\huanlv\huanlv.oms\oms\Surging.Huanlv\core\Surging.Core\Surging.Core.Dapper\obj\Debug\netcoreapp2.1\Surging.Core.Dapper.pdb

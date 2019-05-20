@@ -19,10 +19,10 @@ C:\Users\Admin\Desktop\surging\huanlv\huanlv.oms\oms\Surging.Huanlv\core\Surging
 C:\Users\Admin\Desktop\surging\huanlv\huanlv.oms\oms\Surging.Huanlv\core\Surging.Core\Surging.Core.Codec.ProtoBuffer\bin\Debug\netcoreapp2.1\Surging.Core.ServiceHosting.dll
 C:\Users\Admin\Desktop\surging\huanlv\huanlv.oms\oms\Surging.Huanlv\core\Surging.Core\Surging.Core.Codec.ProtoBuffer\bin\Debug\netcoreapp2.1\Surging.Core.CPlatform.pdb
 C:\Users\Admin\Desktop\surging\huanlv\huanlv.oms\oms\Surging.Huanlv\core\Surging.Core\Surging.Core.Codec.ProtoBuffer\bin\Debug\netcoreapp2.1\Surging.Core.ServiceHosting.pdb
-C:\Users\Admin\Desktop\surging\huanlv\huanlv.oms\oms\Surging.Huanlv\core\Surging.Core\Surging.Core.Codec.ProtoBuffer\obj\Debug\netcoreapp2.1\Surging.Core.Codec.ProtoBuffer.csprojAssemblyReference.cache
 C:\Users\Admin\Desktop\surging\huanlv\huanlv.oms\oms\Surging.Huanlv\core\Surging.Core\Surging.Core.Codec.ProtoBuffer\obj\Debug\netcoreapp2.1\Surging.Core.Codec.ProtoBuffer.csproj.CoreCompileInputs.cache
 C:\Users\Admin\Desktop\surging\huanlv\huanlv.oms\oms\Surging.Huanlv\core\Surging.Core\Surging.Core.Codec.ProtoBuffer\obj\Debug\netcoreapp2.1\Surging.Core.Codec.ProtoBuffer.AssemblyInfoInputs.cache
 C:\Users\Admin\Desktop\surging\huanlv\huanlv.oms\oms\Surging.Huanlv\core\Surging.Core\Surging.Core.Codec.ProtoBuffer\obj\Debug\netcoreapp2.1\Surging.Core.Codec.ProtoBuffer.AssemblyInfo.cs
 C:\Users\Admin\Desktop\surging\huanlv\huanlv.oms\oms\Surging.Huanlv\core\Surging.Core\Surging.Core.Codec.ProtoBuffer\obj\Debug\netcoreapp2.1\Surging.Core.Codec.ProtoBuffer.csproj.CopyComplete
 C:\Users\Admin\Desktop\surging\huanlv\huanlv.oms\oms\Surging.Huanlv\core\Surging.Core\Surging.Core.Codec.ProtoBuffer\obj\Debug\netcoreapp2.1\Surging.Core.Codec.ProtoBuffer.dll
 C:\Users\Admin\Desktop\surging\huanlv\huanlv.oms\oms\Surging.Huanlv\core\Surging.Core\Surging.Core.Codec.ProtoBuffer\obj\Debug\netcoreapp2.1\Surging.Core.Codec.ProtoBuffer.pdb
+C:\Users\Admin\Desktop\surging\huanlv\huanlv.oms\oms\Surging.Huanlv\core\Surging.Core\Surging.Core.Codec.ProtoBuffer\obj\Debug\netcoreapp2.1\Surging.Core.Codec.ProtoBuffer.csprojAssemblyReference.cache
