@@ -5,13 +5,13 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="MediatR" Version="7.0.0" />
+    <PackageReference Include="MessagePack" Version="1.7.3.4" />
     <PackageReference Include="protobuf-net" Version="2.4.0" />
   </ItemGroup>
 
   <ItemGroup>
     <ProjectReference Include="..\..\..\..\core\Surging.Core\Surging.Core.CPlatform\Surging.Core.CPlatform.csproj" />
-    <ProjectReference Include="..\..\..\CommonComponents\Surging.Huanlv.Core\Surging.Huanlv.Core.csproj" />
+    <ProjectReference Include="..\..\..\..\core\Surging.Core\Surging.Core.System\Surging.Core.System.csproj" />
   </ItemGroup>
 
 </Project>

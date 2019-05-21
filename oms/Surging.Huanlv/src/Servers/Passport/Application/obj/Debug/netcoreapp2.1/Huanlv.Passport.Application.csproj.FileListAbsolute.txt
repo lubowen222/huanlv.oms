@@ -11,7 +11,6 @@ C:\Users\Admin\Desktop\surging\huanlv\huanlv.oms\oms\Surging.Huanlv\src\Servers\
 C:\Users\Admin\Desktop\surging\huanlv\huanlv.oms\oms\Surging.Huanlv\src\Servers\Passport\Application\bin\Debug\netcoreapp2.1\Surging.Core.Protocol.WS.dll
 C:\Users\Admin\Desktop\surging\huanlv\huanlv.oms\oms\Surging.Huanlv\src\Servers\Passport\Application\bin\Debug\netcoreapp2.1\Surging.Core.ProxyGenerator.dll
 C:\Users\Admin\Desktop\surging\huanlv\huanlv.oms\oms\Surging.Huanlv\src\Servers\Passport\Application\bin\Debug\netcoreapp2.1\Surging.Core.ServiceHosting.dll
-C:\Users\Admin\Desktop\surging\huanlv\huanlv.oms\oms\Surging.Huanlv\src\Servers\Passport\Application\bin\Debug\netcoreapp2.1\Surging.Huanlv.Core.dll
 C:\Users\Admin\Desktop\surging\huanlv\huanlv.oms\oms\Surging.Huanlv\src\Servers\Passport\Application\bin\Debug\netcoreapp2.1\Surging.Huanlv.Domain.Core.dll
 C:\Users\Admin\Desktop\surging\huanlv\huanlv.oms\oms\Surging.Huanlv\src\Servers\Passport\Application\bin\Debug\netcoreapp2.1\WebSocketCore.dll
 C:\Users\Admin\Desktop\surging\huanlv\huanlv.oms\oms\Surging.Huanlv\src\Servers\Passport\Application\bin\Debug\netcoreapp2.1\Surging.Core.Dapper.pdb
@@ -24,7 +23,6 @@ C:\Users\Admin\Desktop\surging\huanlv\huanlv.oms\oms\Surging.Huanlv\src\Servers\
 C:\Users\Admin\Desktop\surging\huanlv\huanlv.oms\oms\Surging.Huanlv\src\Servers\Passport\Application\bin\Debug\netcoreapp2.1\Surging.Core.Protocol.Mqtt.pdb
 C:\Users\Admin\Desktop\surging\huanlv\huanlv.oms\oms\Surging.Huanlv\src\Servers\Passport\Application\bin\Debug\netcoreapp2.1\Surging.Core.Protocol.WS.pdb
 C:\Users\Admin\Desktop\surging\huanlv\huanlv.oms\oms\Surging.Huanlv\src\Servers\Passport\Application\bin\Debug\netcoreapp2.1\Surging.Core.ServiceHosting.pdb
-C:\Users\Admin\Desktop\surging\huanlv\huanlv.oms\oms\Surging.Huanlv\src\Servers\Passport\Application\bin\Debug\netcoreapp2.1\Surging.Huanlv.Core.pdb
 C:\Users\Admin\Desktop\surging\huanlv\huanlv.oms\oms\Surging.Huanlv\src\Servers\Passport\Application\bin\Debug\netcoreapp2.1\Surging.Huanlv.Domain.Core.pdb
 C:\Users\Admin\Desktop\surging\huanlv\huanlv.oms\oms\Surging.Huanlv\src\Servers\Passport\Application\bin\Debug\netcoreapp2.1\WebSocketCore.pdb
 C:\Users\Admin\Desktop\surging\huanlv\huanlv.oms\oms\Surging.Huanlv\src\Servers\Passport\Application\obj\Debug\netcoreapp2.1\Huanlv.Passport.Application.csprojAssemblyReference.cache
@@ -34,3 +32,11 @@ C:\Users\Admin\Desktop\surging\huanlv\huanlv.oms\oms\Surging.Huanlv\src\Servers\
 C:\Users\Admin\Desktop\surging\huanlv\huanlv.oms\oms\Surging.Huanlv\src\Servers\Passport\Application\obj\Debug\netcoreapp2.1\Huanlv.Passport.Application.csproj.CopyComplete
 C:\Users\Admin\Desktop\surging\huanlv\huanlv.oms\oms\Surging.Huanlv\src\Servers\Passport\Application\obj\Debug\netcoreapp2.1\Huanlv.Passport.Application.dll
 C:\Users\Admin\Desktop\surging\huanlv\huanlv.oms\oms\Surging.Huanlv\src\Servers\Passport\Application\obj\Debug\netcoreapp2.1\Huanlv.Passport.Application.pdb
+C:\Users\Admin\Desktop\surging\huanlv\huanlv.oms\oms\Surging.Huanlv\src\Servers\Passport\Application\bin\Debug\netcoreapp2.1\Surging.Core.AutoMapper.dll
+C:\Users\Admin\Desktop\surging\huanlv\huanlv.oms\oms\Surging.Huanlv\src\Servers\Passport\Application\bin\Debug\netcoreapp2.1\Surging.Core.Caching.dll
+C:\Users\Admin\Desktop\surging\huanlv\huanlv.oms\oms\Surging.Huanlv\src\Servers\Passport\Application\bin\Debug\netcoreapp2.1\Surging.Core.Common.dll
+C:\Users\Admin\Desktop\surging\huanlv\huanlv.oms\oms\Surging.Huanlv\src\Servers\Passport\Application\bin\Debug\netcoreapp2.1\Surging.Core.System.dll
+C:\Users\Admin\Desktop\surging\huanlv\huanlv.oms\oms\Surging.Huanlv\src\Servers\Passport\Application\bin\Debug\netcoreapp2.1\Surging.Core.AutoMapper.pdb
+C:\Users\Admin\Desktop\surging\huanlv\huanlv.oms\oms\Surging.Huanlv\src\Servers\Passport\Application\bin\Debug\netcoreapp2.1\Surging.Core.Caching.pdb
+C:\Users\Admin\Desktop\surging\huanlv\huanlv.oms\oms\Surging.Huanlv\src\Servers\Passport\Application\bin\Debug\netcoreapp2.1\Surging.Core.Common.pdb
+C:\Users\Admin\Desktop\surging\huanlv\huanlv.oms\oms\Surging.Huanlv\src\Servers\Passport\Application\bin\Debug\netcoreapp2.1\Surging.Core.System.pdb

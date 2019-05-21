@@ -4,7 +4,7 @@ using System.ComponentModel.DataAnnotations.Schema;
 namespace Surging.Core.Domain.Entities.Auditing
 {
     [Serializable]
-    public abstract class FullAuditedEntity : FullAuditedEntity<int>, IEntity
+    public abstract class FullAuditedEntity : FullAuditedEntity<long>, IEntity
     {
     }
 

@@ -18,7 +18,6 @@
     <ProjectReference Include="..\..\..\..\core\Surging.Core\Surging.Core.Protocol.Mqtt\Surging.Core.Protocol.Mqtt.csproj" />
     <ProjectReference Include="..\..\..\..\core\Surging.Core\Surging.Core.Protocol.WS\Surging.Core.Protocol.WS.csproj" />
     <ProjectReference Include="..\..\..\..\core\WebSocket\WebSocketCore\WebSocketCore.csproj" />
-    <ProjectReference Include="..\..\..\CommonComponents\Surging.Huanlv.Core\Surging.Huanlv.Core.csproj" />
     <ProjectReference Include="..\..\..\CommonComponents\Surging.Huanlv.Domain.Core\Surging.Huanlv.Domain.Core.csproj" />
   </ItemGroup>
   <ItemGroup>

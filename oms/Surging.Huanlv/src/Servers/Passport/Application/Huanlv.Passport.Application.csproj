@@ -10,6 +10,7 @@
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\..\..\..\core\Surging.Core\Surging.Core.AutoMapper\Surging.Core.AutoMapper.csproj" />
     <ProjectReference Include="..\..\..\..\core\Surging.Core\Surging.Core.Dapper\Surging.Core.Dapper.csproj" />
     <ProjectReference Include="..\..\..\..\core\Surging.Core\Surging.Core.Domain\Surging.Core.Domain.csproj" />
     <ProjectReference Include="..\..\..\..\core\Surging.Core\Surging.Core.ProxyGenerator\Surging.Core.ProxyGenerator.csproj" />

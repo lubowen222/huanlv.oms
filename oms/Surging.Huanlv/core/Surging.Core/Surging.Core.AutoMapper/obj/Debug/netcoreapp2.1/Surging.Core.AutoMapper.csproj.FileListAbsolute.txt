@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\surging\huanlv\huanlv.oms\oms\Surging.Huanlv\core\Surging.Core\Surging.Core.AutoMapper\bin\Debug\netcoreapp2.1\Surging.Core.AutoMapper.deps.json
+C:\Users\Admin\Desktop\surging\huanlv\huanlv.oms\oms\Surging.Huanlv\core\Surging.Core\Surging.Core.AutoMapper\bin\Debug\netcoreapp2.1\Surging.Core.AutoMapper.dll
+C:\Users\Admin\Desktop\surging\huanlv\huanlv.oms\oms\Surging.Huanlv\core\Surging.Core\Surging.Core.AutoMapper\bin\Debug\netcoreapp2.1\Surging.Core.AutoMapper.pdb
+C:\Users\Admin\Desktop\surging\huanlv\huanlv.oms\oms\Surging.Huanlv\core\Surging.Core\Surging.Core.AutoMapper\bin\Debug\netcoreapp2.1\Surging.Core.CPlatform.dll
+C:\Users\Admin\Desktop\surging\huanlv\huanlv.oms\oms\Surging.Huanlv\core\Surging.Core\Surging.Core.AutoMapper\bin\Debug\netcoreapp2.1\Surging.Core.ServiceHosting.dll
+C:\Users\Admin\Desktop\surging\huanlv\huanlv.oms\oms\Surging.Huanlv\core\Surging.Core\Surging.Core.AutoMapper\bin\Debug\netcoreapp2.1\Surging.Core.CPlatform.pdb
+C:\Users\Admin\Desktop\surging\huanlv\huanlv.oms\oms\Surging.Huanlv\core\Surging.Core\Surging.Core.AutoMapper\bin\Debug\netcoreapp2.1\Surging.Core.ServiceHosting.pdb
+C:\Users\Admin\Desktop\surging\huanlv\huanlv.oms\oms\Surging.Huanlv\core\Surging.Core\Surging.Core.AutoMapper\obj\Debug\netcoreapp2.1\Surging.Core.AutoMapper.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\surging\huanlv\huanlv.oms\oms\Surging.Huanlv\core\Surging.Core\Surging.Core.AutoMapper\obj\Debug\netcoreapp2.1\Surging.Core.AutoMapper.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\surging\huanlv\huanlv.oms\oms\Surging.Huanlv\core\Surging.Core\Surging.Core.AutoMapper\obj\Debug\netcoreapp2.1\Surging.Core.AutoMapper.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\surging\huanlv\huanlv.oms\oms\Surging.Huanlv\core\Surging.Core\Surging.Core.AutoMapper\obj\Debug\netcoreapp2.1\Surging.Core.AutoMapper.AssemblyInfo.cs
+C:\Users\Admin\Desktop\surging\huanlv\huanlv.oms\oms\Surging.Huanlv\core\Surging.Core\Surging.Core.AutoMapper\obj\Debug\netcoreapp2.1\Surging.Core.AutoMapper.csproj.CopyComplete
+C:\Users\Admin\Desktop\surging\huanlv\huanlv.oms\oms\Surging.Huanlv\core\Surging.Core\Surging.Core.AutoMapper\obj\Debug\netcoreapp2.1\Surging.Core.AutoMapper.dll
+C:\Users\Admin\Desktop\surging\huanlv\huanlv.oms\oms\Surging.Huanlv\core\Surging.Core\Surging.Core.AutoMapper\obj\Debug\netcoreapp2.1\Surging.Core.AutoMapper.pdb

@@ -6,7 +6,7 @@ using System.Text;
 namespace Surging.Core.Domain.Entities.Auditing
 {
     [Serializable]
-    public abstract class AuditedEntity : AuditedEntity<int>, IEntity
+    public abstract class AuditedEntity : AuditedEntity<long>, IEntity
     {
     }
 

@@ -5,7 +5,7 @@ using System.Reflection;
 namespace Surging.Core.Domain.Entities
 {
     [Serializable]
-    public abstract class Entity : Entity<int>, IEntity
+    public abstract class Entity : Entity<long>, IEntity
     {
     }
 

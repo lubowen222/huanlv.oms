@@ -5,7 +5,7 @@ using System.ComponentModel.DataAnnotations.Schema;
 
 namespace Surging.Core.Domain.Entities
 {
-    public class AggregateRoot : AggregateRoot<int>, IAggregateRoot
+    public class AggregateRoot : AggregateRoot<long>, IAggregateRoot
     {
     }
 
