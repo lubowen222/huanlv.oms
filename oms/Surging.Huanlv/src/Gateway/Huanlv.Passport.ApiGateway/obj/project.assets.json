@@ -242,7 +242,7 @@
           "lib/netstandard1.3/log4net.dll": {}
         }
       },
-      "MessagePack/1.7.3.7": {
+      "MessagePack/1.7.3.4": {
         "type": "package",
         "dependencies": {
           "System.Reflection.Emit": "4.3.0",
@@ -3224,21 +3224,6 @@
           "lib/netstandard1.3/System.Xml.XPath.XDocument.dll": {}
         }
       },
-      "Huanlv.Passport.Interface/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v2.1",
-        "dependencies": {
-          "MessagePack": "1.7.3.7",
-          "protobuf-net": "2.4.0",
-          "surging": "1.0.0"
-        },
-        "compile": {
-          "bin/placeholder/Huanlv.Passport.Interface.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/Huanlv.Passport.Interface.dll": {}
-        }
-      },
       "surging/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v2.1",
@@ -3634,12 +3619,11 @@
         "log4net.nuspec"
       ]
     },
-    "MessagePack/1.7.3.7": {
-      "sha512": "e08CbdnmKt2LKpHNLDU1/GBjYzmM341Yp6mlmPbBTmHh9rRTG0TwNcWUmgsM3vulxnQLJ7eK0QCtLvf+Odjssw==",
+    "MessagePack/1.7.3.4": {
+      "sha512": "QSKZVq6BmNaz/B4n0bAM/moQnc4E6XZ7uXRbJcEXxUzZufJiDYDE6awYqDtNz6acupYoPt2QupGV4rpyPCRRtg==",
       "type": "package",
-      "path": "messagepack/1.7.3.7",
+      "path": "messagepack/1.7.3.4",
       "files": [
-        ".signature.p7s",
         "lib/net45/MessagePack.dll",
         "lib/net45/MessagePack.xml",
         "lib/net47/MessagePack.dll",
@@ -3648,7 +3632,7 @@
         "lib/netstandard1.6/MessagePack.xml",
         "lib/netstandard2.0/MessagePack.dll",
         "lib/netstandard2.0/MessagePack.xml",
-        "messagepack.1.7.3.7.nupkg.sha512",
+        "messagepack.1.7.3.4.nupkg.sha512",
         "messagepack.nuspec"
       ]
     },
@@ -9774,11 +9758,6 @@
         "system.xml.xpath.xdocument.nuspec"
       ]
     },
-    "Huanlv.Passport.Interface/1.0.0": {
-      "type": "project",
-      "path": "../../Servers/Passport/Interface/Huanlv.Passport.Interface/Huanlv.Passport.Interface.csproj",
-      "msbuildProject": "../../Servers/Passport/Interface/Huanlv.Passport.Interface/Huanlv.Passport.Interface.csproj"
-    },
     "surging/1.0.0": {
       "type": "project",
       "path": "../../../core/Surging.Core/Surging.Core.CPlatform/Surging.Core.CPlatform.csproj",
@@ -9848,7 +9827,7 @@
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v2.1": [
       "Autofac >= 4.8.1",
-      "Huanlv.Passport.Interface >= 1.0.0",
+      "C:\\Users\\Admin\\Desktop\\surging\\huanlv\\huanlv.oms\\oms\\Surging.Huanlv\\src\\Servers\\Passport\\Interface\\Huanlv.Passport.Interface\\Huanlv.Passport.Interface.csproj",
       "Microsoft.NETCore.App >= 2.1.0",
       "Surging.Core.Caching >= 1.1.0",
       "Surging.Core.Codec.MessagePack >= 1.1.0",
@@ -9971,5 +9950,16 @@
         "warn": true
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "NU1105",
+      "level": "Error",
+      "message": "找不到“C:\\Users\\Admin\\Desktop\\surging\\huanlv\\huanlv.oms\\oms\\Surging.Huanlv\\src\\Servers\\Passport\\Interface\\Huanlv.Passport.Interface\\Huanlv.Passport.Interface.csproj”的项目信息。项目文件可能无效或可能缺少还原必需的目标。",
+      "libraryId": "C:\\Users\\Admin\\Desktop\\surging\\huanlv\\huanlv.oms\\oms\\Surging.Huanlv\\src\\Servers\\Passport\\Interface\\Huanlv.Passport.Interface\\Huanlv.Passport.Interface.csproj",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v2.1"
+      ]
+    }
+  ]
 }

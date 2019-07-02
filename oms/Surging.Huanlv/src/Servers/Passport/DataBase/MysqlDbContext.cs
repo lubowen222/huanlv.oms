@@ -10,7 +10,7 @@ namespace DataBase
     {
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
-            optionsBuilder.UseMySql("server=localhost;user id=root;password=;database=huanlv.passport;");
+            optionsBuilder.UseMySql("server=101.132.155.202;user id=root;password=Lu@1989222;database=dev_passport;");
         }
 
         /// <summary>
@@ -24,8 +24,8 @@ namespace DataBase
         }
 
         public DbSet<TestModel> TestModels { get; set; }
-        public DbSet<User> UserModels { get; set; }
-        public DbSet<UserWxInfo> UserWxInfoModels { get; set; }
+        public DbSet<AccountModel> AccountModels { get; set; }
+        public DbSet<UserInfoModel> UserInfoModels { get; set; }
 
     }
 }

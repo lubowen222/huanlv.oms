@@ -16,6 +16,10 @@ C:\Users\Admin\Desktop\surging\huanlv.oms\Surging.Huanlv\core\Surging.Core\Surgi
 C:\Users\Admin\Desktop\surging\huanlv.oms\Surging.Huanlv\core\Surging.Core\Surging.Core.Protocol.Http\obj\Debug\netcoreapp2.1\Surging.Core.Protocol.Http.csproj.CopyComplete
 C:\Users\Admin\Desktop\surging\huanlv.oms\Surging.Huanlv\core\Surging.Core\Surging.Core.Protocol.Http\obj\Debug\netcoreapp2.1\Surging.Core.Protocol.Http.dll
 C:\Users\Admin\Desktop\surging\huanlv.oms\Surging.Huanlv\core\Surging.Core\Surging.Core.Protocol.Http\obj\Debug\netcoreapp2.1\Surging.Core.Protocol.Http.pdb
+C:\Users\Admin\Desktop\surging\huanlv\huanlv.oms\oms\Surging.Huanlv\core\Surging.Core\Surging.Core.Protocol.Http\obj\Debug\netcoreapp2.1\Surging.Core.Protocol.Http.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\surging\huanlv\huanlv.oms\oms\Surging.Huanlv\core\Surging.Core\Surging.Core.Protocol.Http\obj\Debug\netcoreapp2.1\Surging.Core.Protocol.Http.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\surging\huanlv\huanlv.oms\oms\Surging.Huanlv\core\Surging.Core\Surging.Core.Protocol.Http\obj\Debug\netcoreapp2.1\Surging.Core.Protocol.Http.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\surging\huanlv\huanlv.oms\oms\Surging.Huanlv\core\Surging.Core\Surging.Core.Protocol.Http\obj\Debug\netcoreapp2.1\Surging.Core.Protocol.Http.AssemblyInfo.cs
 C:\Users\Admin\Desktop\surging\huanlv\huanlv.oms\oms\Surging.Huanlv\core\Surging.Core\Surging.Core.Protocol.Http\bin\Debug\netcoreapp2.1\Surging.Core.Protocol.Http.deps.json
 C:\Users\Admin\Desktop\surging\huanlv\huanlv.oms\oms\Surging.Huanlv\core\Surging.Core\Surging.Core.Protocol.Http\bin\Debug\netcoreapp2.1\Surging.Core.Protocol.Http.dll
 C:\Users\Admin\Desktop\surging\huanlv\huanlv.oms\oms\Surging.Huanlv\core\Surging.Core\Surging.Core.Protocol.Http\bin\Debug\netcoreapp2.1\Surging.Core.Protocol.Http.pdb
@@ -27,10 +31,6 @@ C:\Users\Admin\Desktop\surging\huanlv\huanlv.oms\oms\Surging.Huanlv\core\Surging
 C:\Users\Admin\Desktop\surging\huanlv\huanlv.oms\oms\Surging.Huanlv\core\Surging.Core\Surging.Core.Protocol.Http\bin\Debug\netcoreapp2.1\Surging.Core.DotNetty.pdb
 C:\Users\Admin\Desktop\surging\huanlv\huanlv.oms\oms\Surging.Huanlv\core\Surging.Core\Surging.Core.Protocol.Http\bin\Debug\netcoreapp2.1\Surging.Core.ProxyGenerator.pdb
 C:\Users\Admin\Desktop\surging\huanlv\huanlv.oms\oms\Surging.Huanlv\core\Surging.Core\Surging.Core.Protocol.Http\bin\Debug\netcoreapp2.1\Surging.Core.ServiceHosting.pdb
-C:\Users\Admin\Desktop\surging\huanlv\huanlv.oms\oms\Surging.Huanlv\core\Surging.Core\Surging.Core.Protocol.Http\obj\Debug\netcoreapp2.1\Surging.Core.Protocol.Http.csprojAssemblyReference.cache
-C:\Users\Admin\Desktop\surging\huanlv\huanlv.oms\oms\Surging.Huanlv\core\Surging.Core\Surging.Core.Protocol.Http\obj\Debug\netcoreapp2.1\Surging.Core.Protocol.Http.csproj.CoreCompileInputs.cache
-C:\Users\Admin\Desktop\surging\huanlv\huanlv.oms\oms\Surging.Huanlv\core\Surging.Core\Surging.Core.Protocol.Http\obj\Debug\netcoreapp2.1\Surging.Core.Protocol.Http.AssemblyInfoInputs.cache
-C:\Users\Admin\Desktop\surging\huanlv\huanlv.oms\oms\Surging.Huanlv\core\Surging.Core\Surging.Core.Protocol.Http\obj\Debug\netcoreapp2.1\Surging.Core.Protocol.Http.AssemblyInfo.cs
 C:\Users\Admin\Desktop\surging\huanlv\huanlv.oms\oms\Surging.Huanlv\core\Surging.Core\Surging.Core.Protocol.Http\obj\Debug\netcoreapp2.1\Surging.Core.Protocol.Http.csproj.CopyComplete
 C:\Users\Admin\Desktop\surging\huanlv\huanlv.oms\oms\Surging.Huanlv\core\Surging.Core\Surging.Core.Protocol.Http\obj\Debug\netcoreapp2.1\Surging.Core.Protocol.Http.dll
 C:\Users\Admin\Desktop\surging\huanlv\huanlv.oms\oms\Surging.Huanlv\core\Surging.Core\Surging.Core.Protocol.Http\obj\Debug\netcoreapp2.1\Surging.Core.Protocol.Http.pdb

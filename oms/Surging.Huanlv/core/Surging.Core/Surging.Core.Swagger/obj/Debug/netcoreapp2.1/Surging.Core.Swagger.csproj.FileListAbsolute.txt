@@ -25,4 +25,3 @@ C:\Users\Admin\Desktop\surging\huanlv\huanlv.oms\oms\Surging.Huanlv\core\Surging
 C:\Users\Admin\Desktop\surging\huanlv\huanlv.oms\oms\Surging.Huanlv\core\Surging.Core\Surging.Core.Swagger\obj\Debug\netcoreapp2.1\Surging.Core.Swagger.csproj.CopyComplete
 C:\Users\Admin\Desktop\surging\huanlv\huanlv.oms\oms\Surging.Huanlv\core\Surging.Core\Surging.Core.Swagger\obj\Debug\netcoreapp2.1\Surging.Core.Swagger.dll
 C:\Users\Admin\Desktop\surging\huanlv\huanlv.oms\oms\Surging.Huanlv\core\Surging.Core\Surging.Core.Swagger\obj\Debug\netcoreapp2.1\Surging.Core.Swagger.pdb
-C:\Users\Admin\Desktop\surging\huanlv\huanlv.oms\oms\Surging.Huanlv\core\Surging.Core\Surging.Core.Swagger\obj\Debug\netcoreapp2.1\Surging.Core.Swagger.csprojAssemblyReference.cache

@@ -24,6 +24,12 @@ namespace Surging.Core.CPlatform.Exceptions
             _exceptionCode = status;
         }
 
+        public CPlatformException(string message, StatusCode status = StatusCode.CPlatformError) : base(message)
+        {
+            _exceptionCode = status;
+        }
+
+
         public CPlatformException(string message) : base(message)
         {
             _exceptionCode = StatusCode.CPlatformError;
@@ -32,4 +38,5 @@ namespace Surging.Core.CPlatform.Exceptions
         public StatusCode ExceptionCode { get { return _exceptionCode; } }
 
     }
+    
 }

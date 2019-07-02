@@ -18,12 +18,15 @@
     <ProjectReference Include="..\..\..\..\core\Surging.Core\Surging.Core.Protocol.Mqtt\Surging.Core.Protocol.Mqtt.csproj" />
     <ProjectReference Include="..\..\..\..\core\Surging.Core\Surging.Core.Protocol.WS\Surging.Core.Protocol.WS.csproj" />
     <ProjectReference Include="..\..\..\..\core\WebSocket\WebSocketCore\WebSocketCore.csproj" />
-    <ProjectReference Include="..\..\..\CommonComponents\Surging.Huanlv.Domain.Core\Surging.Huanlv.Domain.Core.csproj" />
+    <ProjectReference Include="..\IApplication\Huanlv.Passport.IApplication.csproj" />
   </ItemGroup>
   <ItemGroup>
     <Compile Remove="Class1.cs" />
   </ItemGroup>
   <ItemGroup>
     <PackageReference Include="MediatR" Version="7.0.0" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="ClassMappers\" />
   </ItemGroup>
 </Project>
