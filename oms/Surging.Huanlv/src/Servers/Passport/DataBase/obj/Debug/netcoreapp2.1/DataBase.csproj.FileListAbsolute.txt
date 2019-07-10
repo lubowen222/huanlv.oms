@@ -9,3 +9,14 @@ C:\Users\Admin\Desktop\surging\huanlv\huanlv.oms\oms\Surging.Huanlv\src\Servers\
 C:\Users\Admin\Desktop\surging\huanlv\huanlv.oms\oms\Surging.Huanlv\src\Servers\Passport\DataBase\obj\Debug\netcoreapp2.1\DataBase.AssemblyInfo.cs
 C:\Users\Admin\Desktop\surging\huanlv\huanlv.oms\oms\Surging.Huanlv\src\Servers\Passport\DataBase\obj\Debug\netcoreapp2.1\DataBase.dll
 C:\Users\Admin\Desktop\surging\huanlv\huanlv.oms\oms\Surging.Huanlv\src\Servers\Passport\DataBase\obj\Debug\netcoreapp2.1\DataBase.pdb
+F:\project\huanlv.oms\oms\Surging.Huanlv\src\Servers\Passport\DataBase\bin\Debug\netcoreapp2.1\DataBase.deps.json
+F:\project\huanlv.oms\oms\Surging.Huanlv\src\Servers\Passport\DataBase\bin\Debug\netcoreapp2.1\DataBase.runtimeconfig.json
+F:\project\huanlv.oms\oms\Surging.Huanlv\src\Servers\Passport\DataBase\bin\Debug\netcoreapp2.1\DataBase.runtimeconfig.dev.json
+F:\project\huanlv.oms\oms\Surging.Huanlv\src\Servers\Passport\DataBase\bin\Debug\netcoreapp2.1\DataBase.dll
+F:\project\huanlv.oms\oms\Surging.Huanlv\src\Servers\Passport\DataBase\bin\Debug\netcoreapp2.1\DataBase.pdb
+F:\project\huanlv.oms\oms\Surging.Huanlv\src\Servers\Passport\DataBase\obj\Debug\netcoreapp2.1\DataBase.csprojAssemblyReference.cache
+F:\project\huanlv.oms\oms\Surging.Huanlv\src\Servers\Passport\DataBase\obj\Debug\netcoreapp2.1\DataBase.csproj.CoreCompileInputs.cache
+F:\project\huanlv.oms\oms\Surging.Huanlv\src\Servers\Passport\DataBase\obj\Debug\netcoreapp2.1\DataBase.AssemblyInfoInputs.cache
+F:\project\huanlv.oms\oms\Surging.Huanlv\src\Servers\Passport\DataBase\obj\Debug\netcoreapp2.1\DataBase.AssemblyInfo.cs
+F:\project\huanlv.oms\oms\Surging.Huanlv\src\Servers\Passport\DataBase\obj\Debug\netcoreapp2.1\DataBase.dll
+F:\project\huanlv.oms\oms\Surging.Huanlv\src\Servers\Passport\DataBase\obj\Debug\netcoreapp2.1\DataBase.pdb

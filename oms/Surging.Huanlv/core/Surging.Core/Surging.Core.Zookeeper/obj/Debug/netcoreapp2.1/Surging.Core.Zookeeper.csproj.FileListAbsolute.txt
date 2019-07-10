@@ -25,3 +25,17 @@ C:\Users\Admin\Desktop\surging\huanlv\huanlv.oms\oms\Surging.Huanlv\core\Surging
 C:\Users\Admin\Desktop\surging\huanlv\huanlv.oms\oms\Surging.Huanlv\core\Surging.Core\Surging.Core.Zookeeper\obj\Debug\netcoreapp2.1\Surging.Core.Zookeeper.csproj.CopyComplete
 C:\Users\Admin\Desktop\surging\huanlv\huanlv.oms\oms\Surging.Huanlv\core\Surging.Core\Surging.Core.Zookeeper\obj\Debug\netcoreapp2.1\Surging.Core.Zookeeper.dll
 C:\Users\Admin\Desktop\surging\huanlv\huanlv.oms\oms\Surging.Huanlv\core\Surging.Core\Surging.Core.Zookeeper\obj\Debug\netcoreapp2.1\Surging.Core.Zookeeper.pdb
+F:\project\huanlv.oms\oms\Surging.Huanlv\core\Surging.Core\Surging.Core.Zookeeper\bin\Debug\netcoreapp2.1\Surging.Core.Zookeeper.deps.json
+F:\project\huanlv.oms\oms\Surging.Huanlv\core\Surging.Core\Surging.Core.Zookeeper\bin\Debug\netcoreapp2.1\Surging.Core.Zookeeper.dll
+F:\project\huanlv.oms\oms\Surging.Huanlv\core\Surging.Core\Surging.Core.Zookeeper\bin\Debug\netcoreapp2.1\Surging.Core.Zookeeper.pdb
+F:\project\huanlv.oms\oms\Surging.Huanlv\core\Surging.Core\Surging.Core.Zookeeper\bin\Debug\netcoreapp2.1\Surging.Core.CPlatform.dll
+F:\project\huanlv.oms\oms\Surging.Huanlv\core\Surging.Core\Surging.Core.Zookeeper\bin\Debug\netcoreapp2.1\Surging.Core.ServiceHosting.dll
+F:\project\huanlv.oms\oms\Surging.Huanlv\core\Surging.Core\Surging.Core.Zookeeper\bin\Debug\netcoreapp2.1\Surging.Core.CPlatform.pdb
+F:\project\huanlv.oms\oms\Surging.Huanlv\core\Surging.Core\Surging.Core.Zookeeper\bin\Debug\netcoreapp2.1\Surging.Core.ServiceHosting.pdb
+F:\project\huanlv.oms\oms\Surging.Huanlv\core\Surging.Core\Surging.Core.Zookeeper\obj\Debug\netcoreapp2.1\Surging.Core.Zookeeper.csprojAssemblyReference.cache
+F:\project\huanlv.oms\oms\Surging.Huanlv\core\Surging.Core\Surging.Core.Zookeeper\obj\Debug\netcoreapp2.1\Surging.Core.Zookeeper.csproj.CoreCompileInputs.cache
+F:\project\huanlv.oms\oms\Surging.Huanlv\core\Surging.Core\Surging.Core.Zookeeper\obj\Debug\netcoreapp2.1\Surging.Core.Zookeeper.AssemblyInfoInputs.cache
+F:\project\huanlv.oms\oms\Surging.Huanlv\core\Surging.Core\Surging.Core.Zookeeper\obj\Debug\netcoreapp2.1\Surging.Core.Zookeeper.AssemblyInfo.cs
+F:\project\huanlv.oms\oms\Surging.Huanlv\core\Surging.Core\Surging.Core.Zookeeper\obj\Debug\netcoreapp2.1\Surging.Core.Zookeeper.csproj.CopyComplete
+F:\project\huanlv.oms\oms\Surging.Huanlv\core\Surging.Core\Surging.Core.Zookeeper\obj\Debug\netcoreapp2.1\Surging.Core.Zookeeper.dll
+F:\project\huanlv.oms\oms\Surging.Huanlv\core\Surging.Core\Surging.Core.Zookeeper\obj\Debug\netcoreapp2.1\Surging.Core.Zookeeper.pdb

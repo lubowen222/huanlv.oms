@@ -65,3 +65,7 @@ C:\Users\Admin\Desktop\surging\huanlv\huanlv.oms\oms\Surging.Huanlv\src\Servers\
 C:\Users\Admin\Desktop\surging\huanlv\huanlv.oms\oms\Surging.Huanlv\src\Servers\Passport\ServerHost\obj\Debug\netcoreapp2.1\Huanlv.Passport.ServerHost.csproj.CopyComplete
 C:\Users\Admin\Desktop\surging\huanlv\huanlv.oms\oms\Surging.Huanlv\src\Servers\Passport\ServerHost\obj\Debug\netcoreapp2.1\Huanlv.Passport.ServerHost.dll
 C:\Users\Admin\Desktop\surging\huanlv\huanlv.oms\oms\Surging.Huanlv\src\Servers\Passport\ServerHost\obj\Debug\netcoreapp2.1\Huanlv.Passport.ServerHost.pdb
+F:\project\huanlv.oms\oms\Surging.Huanlv\src\Servers\Passport\ServerHost\obj\Debug\netcoreapp2.1\Huanlv.Passport.ServerHost.csprojAssemblyReference.cache
+F:\project\huanlv.oms\oms\Surging.Huanlv\src\Servers\Passport\ServerHost\obj\Debug\netcoreapp2.1\Huanlv.Passport.ServerHost.csproj.CoreCompileInputs.cache
+F:\project\huanlv.oms\oms\Surging.Huanlv\src\Servers\Passport\ServerHost\obj\Debug\netcoreapp2.1\Huanlv.Passport.ServerHost.AssemblyInfoInputs.cache
+F:\project\huanlv.oms\oms\Surging.Huanlv\src\Servers\Passport\ServerHost\obj\Debug\netcoreapp2.1\Huanlv.Passport.ServerHost.AssemblyInfo.cs

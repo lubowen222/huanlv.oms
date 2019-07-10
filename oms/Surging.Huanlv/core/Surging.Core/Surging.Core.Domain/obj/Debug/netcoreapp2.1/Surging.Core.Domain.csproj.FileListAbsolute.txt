@@ -12,3 +12,17 @@ C:\Users\Admin\Desktop\surging\huanlv\huanlv.oms\oms\Surging.Huanlv\core\Surging
 C:\Users\Admin\Desktop\surging\huanlv\huanlv.oms\oms\Surging.Huanlv\core\Surging.Core\Surging.Core.Domain\obj\Debug\netcoreapp2.1\Surging.Core.Domain.dll
 C:\Users\Admin\Desktop\surging\huanlv\huanlv.oms\oms\Surging.Huanlv\core\Surging.Core\Surging.Core.Domain\obj\Debug\netcoreapp2.1\Surging.Core.Domain.pdb
 C:\Users\Admin\Desktop\surging\huanlv\huanlv.oms\oms\Surging.Huanlv\core\Surging.Core\Surging.Core.Domain\obj\Debug\netcoreapp2.1\Surging.Core.Domain.csprojAssemblyReference.cache
+F:\project\huanlv.oms\oms\Surging.Huanlv\core\Surging.Core\Surging.Core.Domain\bin\Debug\netcoreapp2.1\Surging.Core.Domain.deps.json
+F:\project\huanlv.oms\oms\Surging.Huanlv\core\Surging.Core\Surging.Core.Domain\bin\Debug\netcoreapp2.1\Surging.Core.Domain.dll
+F:\project\huanlv.oms\oms\Surging.Huanlv\core\Surging.Core\Surging.Core.Domain\bin\Debug\netcoreapp2.1\Surging.Core.Domain.pdb
+F:\project\huanlv.oms\oms\Surging.Huanlv\core\Surging.Core\Surging.Core.Domain\bin\Debug\netcoreapp2.1\Surging.Core.CPlatform.dll
+F:\project\huanlv.oms\oms\Surging.Huanlv\core\Surging.Core\Surging.Core.Domain\bin\Debug\netcoreapp2.1\Surging.Core.ServiceHosting.dll
+F:\project\huanlv.oms\oms\Surging.Huanlv\core\Surging.Core\Surging.Core.Domain\bin\Debug\netcoreapp2.1\Surging.Core.CPlatform.pdb
+F:\project\huanlv.oms\oms\Surging.Huanlv\core\Surging.Core\Surging.Core.Domain\bin\Debug\netcoreapp2.1\Surging.Core.ServiceHosting.pdb
+F:\project\huanlv.oms\oms\Surging.Huanlv\core\Surging.Core\Surging.Core.Domain\obj\Debug\netcoreapp2.1\Surging.Core.Domain.csprojAssemblyReference.cache
+F:\project\huanlv.oms\oms\Surging.Huanlv\core\Surging.Core\Surging.Core.Domain\obj\Debug\netcoreapp2.1\Surging.Core.Domain.csproj.CoreCompileInputs.cache
+F:\project\huanlv.oms\oms\Surging.Huanlv\core\Surging.Core\Surging.Core.Domain\obj\Debug\netcoreapp2.1\Surging.Core.Domain.AssemblyInfoInputs.cache
+F:\project\huanlv.oms\oms\Surging.Huanlv\core\Surging.Core\Surging.Core.Domain\obj\Debug\netcoreapp2.1\Surging.Core.Domain.AssemblyInfo.cs
+F:\project\huanlv.oms\oms\Surging.Huanlv\core\Surging.Core\Surging.Core.Domain\obj\Debug\netcoreapp2.1\Surging.Core.Domain.csproj.CopyComplete
+F:\project\huanlv.oms\oms\Surging.Huanlv\core\Surging.Core\Surging.Core.Domain\obj\Debug\netcoreapp2.1\Surging.Core.Domain.dll
+F:\project\huanlv.oms\oms\Surging.Huanlv\core\Surging.Core\Surging.Core.Domain\obj\Debug\netcoreapp2.1\Surging.Core.Domain.pdb

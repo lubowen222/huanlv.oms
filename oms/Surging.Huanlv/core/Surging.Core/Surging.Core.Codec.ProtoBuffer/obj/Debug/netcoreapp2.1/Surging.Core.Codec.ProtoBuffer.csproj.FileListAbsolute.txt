@@ -25,3 +25,17 @@ C:\Users\Admin\Desktop\surging\huanlv\huanlv.oms\oms\Surging.Huanlv\core\Surging
 C:\Users\Admin\Desktop\surging\huanlv\huanlv.oms\oms\Surging.Huanlv\core\Surging.Core\Surging.Core.Codec.ProtoBuffer\obj\Debug\netcoreapp2.1\Surging.Core.Codec.ProtoBuffer.csproj.CopyComplete
 C:\Users\Admin\Desktop\surging\huanlv\huanlv.oms\oms\Surging.Huanlv\core\Surging.Core\Surging.Core.Codec.ProtoBuffer\obj\Debug\netcoreapp2.1\Surging.Core.Codec.ProtoBuffer.dll
 C:\Users\Admin\Desktop\surging\huanlv\huanlv.oms\oms\Surging.Huanlv\core\Surging.Core\Surging.Core.Codec.ProtoBuffer\obj\Debug\netcoreapp2.1\Surging.Core.Codec.ProtoBuffer.pdb
+F:\project\huanlv.oms\oms\Surging.Huanlv\core\Surging.Core\Surging.Core.Codec.ProtoBuffer\bin\Debug\netcoreapp2.1\Surging.Core.Codec.ProtoBuffer.deps.json
+F:\project\huanlv.oms\oms\Surging.Huanlv\core\Surging.Core\Surging.Core.Codec.ProtoBuffer\bin\Debug\netcoreapp2.1\Surging.Core.Codec.ProtoBuffer.dll
+F:\project\huanlv.oms\oms\Surging.Huanlv\core\Surging.Core\Surging.Core.Codec.ProtoBuffer\bin\Debug\netcoreapp2.1\Surging.Core.Codec.ProtoBuffer.pdb
+F:\project\huanlv.oms\oms\Surging.Huanlv\core\Surging.Core\Surging.Core.Codec.ProtoBuffer\bin\Debug\netcoreapp2.1\Surging.Core.CPlatform.dll
+F:\project\huanlv.oms\oms\Surging.Huanlv\core\Surging.Core\Surging.Core.Codec.ProtoBuffer\bin\Debug\netcoreapp2.1\Surging.Core.ServiceHosting.dll
+F:\project\huanlv.oms\oms\Surging.Huanlv\core\Surging.Core\Surging.Core.Codec.ProtoBuffer\bin\Debug\netcoreapp2.1\Surging.Core.CPlatform.pdb
+F:\project\huanlv.oms\oms\Surging.Huanlv\core\Surging.Core\Surging.Core.Codec.ProtoBuffer\bin\Debug\netcoreapp2.1\Surging.Core.ServiceHosting.pdb
+F:\project\huanlv.oms\oms\Surging.Huanlv\core\Surging.Core\Surging.Core.Codec.ProtoBuffer\obj\Debug\netcoreapp2.1\Surging.Core.Codec.ProtoBuffer.csprojAssemblyReference.cache
+F:\project\huanlv.oms\oms\Surging.Huanlv\core\Surging.Core\Surging.Core.Codec.ProtoBuffer\obj\Debug\netcoreapp2.1\Surging.Core.Codec.ProtoBuffer.csproj.CoreCompileInputs.cache
+F:\project\huanlv.oms\oms\Surging.Huanlv\core\Surging.Core\Surging.Core.Codec.ProtoBuffer\obj\Debug\netcoreapp2.1\Surging.Core.Codec.ProtoBuffer.AssemblyInfoInputs.cache
+F:\project\huanlv.oms\oms\Surging.Huanlv\core\Surging.Core\Surging.Core.Codec.ProtoBuffer\obj\Debug\netcoreapp2.1\Surging.Core.Codec.ProtoBuffer.AssemblyInfo.cs
+F:\project\huanlv.oms\oms\Surging.Huanlv\core\Surging.Core\Surging.Core.Codec.ProtoBuffer\obj\Debug\netcoreapp2.1\Surging.Core.Codec.ProtoBuffer.csproj.CopyComplete
+F:\project\huanlv.oms\oms\Surging.Huanlv\core\Surging.Core\Surging.Core.Codec.ProtoBuffer\obj\Debug\netcoreapp2.1\Surging.Core.Codec.ProtoBuffer.dll
+F:\project\huanlv.oms\oms\Surging.Huanlv\core\Surging.Core\Surging.Core.Codec.ProtoBuffer\obj\Debug\netcoreapp2.1\Surging.Core.Codec.ProtoBuffer.pdb

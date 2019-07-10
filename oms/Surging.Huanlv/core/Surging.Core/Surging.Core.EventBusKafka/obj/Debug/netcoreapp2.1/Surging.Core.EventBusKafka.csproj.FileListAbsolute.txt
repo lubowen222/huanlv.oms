@@ -26,3 +26,17 @@ C:\Users\Admin\Desktop\surging\huanlv\huanlv.oms\oms\Surging.Huanlv\core\Surging
 C:\Users\Admin\Desktop\surging\huanlv\huanlv.oms\oms\Surging.Huanlv\core\Surging.Core\Surging.Core.EventBusKafka\obj\Debug\netcoreapp2.1\Surging.Core.EventBusKafka.csproj.CopyComplete
 C:\Users\Admin\Desktop\surging\huanlv\huanlv.oms\oms\Surging.Huanlv\core\Surging.Core\Surging.Core.EventBusKafka\obj\Debug\netcoreapp2.1\Surging.Core.EventBusKafka.dll
 C:\Users\Admin\Desktop\surging\huanlv\huanlv.oms\oms\Surging.Huanlv\core\Surging.Core\Surging.Core.EventBusKafka\obj\Debug\netcoreapp2.1\Surging.Core.EventBusKafka.pdb
+F:\project\huanlv.oms\oms\Surging.Huanlv\core\Surging.Core\Surging.Core.EventBusKafka\bin\Debug\netcoreapp2.1\Surging.Core.EventBusKafka.deps.json
+F:\project\huanlv.oms\oms\Surging.Huanlv\core\Surging.Core\Surging.Core.EventBusKafka\bin\Debug\netcoreapp2.1\Surging.Core.EventBusKafka.dll
+F:\project\huanlv.oms\oms\Surging.Huanlv\core\Surging.Core\Surging.Core.EventBusKafka\bin\Debug\netcoreapp2.1\Surging.Core.EventBusKafka.pdb
+F:\project\huanlv.oms\oms\Surging.Huanlv\core\Surging.Core\Surging.Core.EventBusKafka\bin\Debug\netcoreapp2.1\Surging.Core.CPlatform.dll
+F:\project\huanlv.oms\oms\Surging.Huanlv\core\Surging.Core\Surging.Core.EventBusKafka\bin\Debug\netcoreapp2.1\Surging.Core.ServiceHosting.dll
+F:\project\huanlv.oms\oms\Surging.Huanlv\core\Surging.Core\Surging.Core.EventBusKafka\bin\Debug\netcoreapp2.1\Surging.Core.CPlatform.pdb
+F:\project\huanlv.oms\oms\Surging.Huanlv\core\Surging.Core\Surging.Core.EventBusKafka\bin\Debug\netcoreapp2.1\Surging.Core.ServiceHosting.pdb
+F:\project\huanlv.oms\oms\Surging.Huanlv\core\Surging.Core\Surging.Core.EventBusKafka\obj\Debug\netcoreapp2.1\Surging.Core.EventBusKafka.csprojAssemblyReference.cache
+F:\project\huanlv.oms\oms\Surging.Huanlv\core\Surging.Core\Surging.Core.EventBusKafka\obj\Debug\netcoreapp2.1\Surging.Core.EventBusKafka.csproj.CoreCompileInputs.cache
+F:\project\huanlv.oms\oms\Surging.Huanlv\core\Surging.Core\Surging.Core.EventBusKafka\obj\Debug\netcoreapp2.1\Surging.Core.EventBusKafka.AssemblyInfoInputs.cache
+F:\project\huanlv.oms\oms\Surging.Huanlv\core\Surging.Core\Surging.Core.EventBusKafka\obj\Debug\netcoreapp2.1\Surging.Core.EventBusKafka.AssemblyInfo.cs
+F:\project\huanlv.oms\oms\Surging.Huanlv\core\Surging.Core\Surging.Core.EventBusKafka\obj\Debug\netcoreapp2.1\Surging.Core.EventBusKafka.csproj.CopyComplete
+F:\project\huanlv.oms\oms\Surging.Huanlv\core\Surging.Core\Surging.Core.EventBusKafka\obj\Debug\netcoreapp2.1\Surging.Core.EventBusKafka.dll
+F:\project\huanlv.oms\oms\Surging.Huanlv\core\Surging.Core\Surging.Core.EventBusKafka\obj\Debug\netcoreapp2.1\Surging.Core.EventBusKafka.pdb
