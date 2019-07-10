@@ -46,7 +46,7 @@ namespace Surging.Core.Caching.RedisCache
         /// 	<para>创建：范亮</para>
         /// 	<para>日期：2016/4/2</para>
         /// </remarks>
-        internal string _defaultExpireTime=null;
+        internal string _defaultExpireTime = null;
 
         /// <summary>
         /// 连接失效时间
@@ -83,7 +83,7 @@ namespace Surging.Core.Caching.RedisCache
         /// <summary>
         /// 对象池下限
         /// </summary>
-        internal string _minSize=null;
+        internal string _minSize = null;
 
         #region 构造函数
         /// <summary>
@@ -113,7 +113,7 @@ namespace Surging.Core.Caching.RedisCache
                     _cachingContextPool = new Lazy<Dictionary<string, List<string>>>(
                         () =>
                         {
-                            var dataContextPool = new Dictionary<string, List<string>>();
+                             var dataContextPool = new Dictionary<string, List<string>>();
                             var lArg = arg as List<object>;
                             foreach (var tmpArg in lArg)
                             {
@@ -126,7 +126,9 @@ namespace Surging.Core.Caching.RedisCache
                                                 select itemProperties[1].GetValue(item)
                                         into value
                                                 select value.ToString()).ToList();
-                                    dataContextPool.Add(props[1].GetValue(tmpArg).ToString(), list);
+                                    var key = props[1].GetValue(tmpArg).ToString();
+                                    if (!dataContextPool.ContainsKey(key))
+                                        dataContextPool.Add(key, list);
                                 }
                             }
                             return dataContextPool;
@@ -217,7 +219,7 @@ namespace Surging.Core.Caching.RedisCache
                         MinSize = this._minSize,
                         Db = db.ToString()
                     };
-                    hash.Add(node,string.Format("{0}:{1}",node.Host,node.Port));
+                    hash.Add(node, string.Format("{0}:{1}", node.Host, node.Port));
                     dicHash.GetOrAdd(targetType.ToString(), hash);
                 });
             }

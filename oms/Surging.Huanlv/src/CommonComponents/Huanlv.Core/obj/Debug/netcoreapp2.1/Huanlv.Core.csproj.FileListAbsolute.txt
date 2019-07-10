@@ -1,0 +1,16 @@
+C:\Users\Admin\Desktop\surging\huanlv\huanlv.oms\oms\Surging.Huanlv\src\CommonComponents\Huanlv.Core\bin\Debug\netcoreapp2.1\Huanlv.Core.deps.json
+C:\Users\Admin\Desktop\surging\huanlv\huanlv.oms\oms\Surging.Huanlv\src\CommonComponents\Huanlv.Core\bin\Debug\netcoreapp2.1\Huanlv.Core.dll
+C:\Users\Admin\Desktop\surging\huanlv\huanlv.oms\oms\Surging.Huanlv\src\CommonComponents\Huanlv.Core\obj\Debug\netcoreapp2.1\Huanlv.Core.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\surging\huanlv\huanlv.oms\oms\Surging.Huanlv\src\CommonComponents\Huanlv.Core\obj\Debug\netcoreapp2.1\Huanlv.Core.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\surging\huanlv\huanlv.oms\oms\Surging.Huanlv\src\CommonComponents\Huanlv.Core\obj\Debug\netcoreapp2.1\Huanlv.Core.AssemblyInfo.cs
+C:\Users\Admin\Desktop\surging\huanlv\huanlv.oms\oms\Surging.Huanlv\src\CommonComponents\Huanlv.Core\obj\Debug\netcoreapp2.1\Huanlv.Core.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\surging\huanlv\huanlv.oms\oms\Surging.Huanlv\src\CommonComponents\Huanlv.Core\bin\Debug\netcoreapp2.1\Surging.Core.CPlatform.dll
+C:\Users\Admin\Desktop\surging\huanlv\huanlv.oms\oms\Surging.Huanlv\src\CommonComponents\Huanlv.Core\bin\Debug\netcoreapp2.1\Surging.Core.Domain.dll
+C:\Users\Admin\Desktop\surging\huanlv\huanlv.oms\oms\Surging.Huanlv\src\CommonComponents\Huanlv.Core\bin\Debug\netcoreapp2.1\Surging.Core.ServiceHosting.dll
+C:\Users\Admin\Desktop\surging\huanlv\huanlv.oms\oms\Surging.Huanlv\src\CommonComponents\Huanlv.Core\bin\Debug\netcoreapp2.1\Surging.Core.Domain.pdb
+C:\Users\Admin\Desktop\surging\huanlv\huanlv.oms\oms\Surging.Huanlv\src\CommonComponents\Huanlv.Core\bin\Debug\netcoreapp2.1\Surging.Core.ServiceHosting.pdb
+C:\Users\Admin\Desktop\surging\huanlv\huanlv.oms\oms\Surging.Huanlv\src\CommonComponents\Huanlv.Core\bin\Debug\netcoreapp2.1\Huanlv.Core.pdb
+C:\Users\Admin\Desktop\surging\huanlv\huanlv.oms\oms\Surging.Huanlv\src\CommonComponents\Huanlv.Core\bin\Debug\netcoreapp2.1\Surging.Core.CPlatform.pdb
+C:\Users\Admin\Desktop\surging\huanlv\huanlv.oms\oms\Surging.Huanlv\src\CommonComponents\Huanlv.Core\obj\Debug\netcoreapp2.1\Huanlv.Core.csproj.CopyComplete
+C:\Users\Admin\Desktop\surging\huanlv\huanlv.oms\oms\Surging.Huanlv\src\CommonComponents\Huanlv.Core\obj\Debug\netcoreapp2.1\Huanlv.Core.dll
+C:\Users\Admin\Desktop\surging\huanlv\huanlv.oms\oms\Surging.Huanlv\src\CommonComponents\Huanlv.Core\obj\Debug\netcoreapp2.1\Huanlv.Core.pdb

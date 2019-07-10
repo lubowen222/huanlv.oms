@@ -14,7 +14,6 @@
           "Surging.Core.EventBusRabbitMQ": "1.1.0",
           "Surging.Core.Protocol.Mqtt": "1.1.0",
           "Surging.Core.Protocol.WS": "1.1.0",
-          "Surging.Huanlv.Domain.Core": "1.0.0",
           "Surging.WebSocketCore": "1.9.2",
           "surging": "1.0.0"
         },
@@ -1939,14 +1938,6 @@
           "Surging.Core.ServiceHosting.dll": {}
         }
       },
-      "Surging.Huanlv.Domain.Core/1.0.0": {
-        "dependencies": {
-          "MediatR": "7.0.0"
-        },
-        "runtime": {
-          "Surging.Huanlv.Domain.Core.dll": {}
-        }
-      },
       "Surging.WebSocketCore/1.9.2": {
         "runtime": {
           "WebSocketCore.dll": {}
@@ -2997,11 +2988,6 @@
       "sha512": ""
     },
     "Surging.Core.ServiceHosting/1.1.0": {
-      "type": "project",
-      "serviceable": false,
-      "sha512": ""
-    },
-    "Surging.Huanlv.Domain.Core/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

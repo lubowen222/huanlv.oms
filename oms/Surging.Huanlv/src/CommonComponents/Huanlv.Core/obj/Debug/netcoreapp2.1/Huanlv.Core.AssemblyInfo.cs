@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("Huanlv.Passport.ApiGateway")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("Huanlv.Core")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
-[assembly: System.Reflection.AssemblyProductAttribute("Huanlv.Passport.ApiGateway")]
-[assembly: System.Reflection.AssemblyTitleAttribute("Huanlv.Passport.ApiGateway")]
+[assembly: System.Reflection.AssemblyProductAttribute("Huanlv.Core")]
+[assembly: System.Reflection.AssemblyTitleAttribute("Huanlv.Core")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // 由 MSBuild WriteCodeFragment 类生成。

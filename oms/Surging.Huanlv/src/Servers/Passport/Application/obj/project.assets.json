@@ -3130,13 +3130,13 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v2.1",
         "dependencies": {
+          "Huanlv.Passport.IApplication": "1.0.0",
           "MediatR": "7.0.0",
           "Surging.Core.Dapper": "0.6.0-bate.3",
           "Surging.Core.Domain": "0.6.0-bate.3",
           "Surging.Core.EventBusRabbitMQ": "1.1.0",
           "Surging.Core.Protocol.Mqtt": "1.1.0",
           "Surging.Core.Protocol.WS": "1.1.0",
-          "Surging.Huanlv.Domain.Core": "1.0.0",
           "Surging.WebSocketCore": "1.9.2",
           "surging": "1.0.0"
         },
@@ -3371,19 +3371,6 @@
         },
         "runtime": {
           "bin/placeholder/Surging.Core.System.dll": {}
-        }
-      },
-      "Surging.Huanlv.Domain.Core/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v2.1",
-        "dependencies": {
-          "MediatR": "7.0.0"
-        },
-        "compile": {
-          "bin/placeholder/Surging.Huanlv.Domain.Core.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/Surging.Huanlv.Domain.Core.dll": {}
         }
       },
       "Surging.WebSocketCore/1.9.2": {
@@ -9934,11 +9921,6 @@
       "type": "project",
       "path": "../../../../core/Surging.Core/Surging.Core.System/Surging.Core.System.csproj",
       "msbuildProject": "../../../../core/Surging.Core/Surging.Core.System/Surging.Core.System.csproj"
-    },
-    "Surging.Huanlv.Domain.Core/1.0.0": {
-      "type": "project",
-      "path": "../../../CommonComponents/Surging.Huanlv.Domain.Core/Surging.Huanlv.Domain.Core.csproj",
-      "msbuildProject": "../../../CommonComponents/Surging.Huanlv.Domain.Core/Surging.Huanlv.Domain.Core.csproj"
     },
     "Surging.WebSocketCore/1.9.2": {
       "type": "project",

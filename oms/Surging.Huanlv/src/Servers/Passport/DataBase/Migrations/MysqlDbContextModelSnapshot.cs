@@ -17,6 +17,37 @@ namespace DataBase.Migrations
                 .HasAnnotation("ProductVersion", "2.1.3-rtm-32065")
                 .HasAnnotation("Relational:MaxIdentifierLength", 64);
 
+            modelBuilder.Entity("DataBase.Models.AccountModel", b =>
+                {
+                    b.Property<long>("Id")
+                        .ValueGeneratedOnAdd();
+
+                    b.Property<DateTime>("FirstLogonTime");
+
+                    b.Property<bool>("IsDisable");
+
+                    b.Property<DateTime>("LastLogonTime");
+
+                    b.Property<string>("LogonError")
+                        .HasMaxLength(100);
+
+                    b.Property<int>("LogonErrorNum");
+
+                    b.Property<int>("OemId");
+
+                    b.Property<string>("Password")
+                        .HasMaxLength(100);
+
+                    b.Property<string>("UserName")
+                        .HasMaxLength(20);
+
+                    b.HasKey("Id");
+
+                    b.HasIndex("OemId");
+
+                    b.ToTable("account");
+                });
+
             modelBuilder.Entity("DataBase.Models.TestModel", b =>
                 {
                     b.Property<int>("Id")
@@ -31,49 +62,57 @@ namespace DataBase.Migrations
                     b.ToTable("TestData");
                 });
 
-            modelBuilder.Entity("DataBase.Models.User", b =>
+            modelBuilder.Entity("DataBase.Models.UserInfoModel", b =>
                 {
                     b.Property<long>("Id")
                         .ValueGeneratedOnAdd();
 
-                    b.Property<string>("Cellphone");
+                    b.Property<long>("AccountId");
 
-                    b.Property<DateTime>("ModifiedTime");
+                    b.Property<string>("City")
+                        .HasMaxLength(20);
+
+                    b.Property<DateTime>("CreateTime");
+
+                    b.Property<string>("HeadImg")
+                        .HasMaxLength(255);
+
+                    b.Property<bool>("IsFakePhone");
+
+                    b.Property<string>("Mail")
+                        .HasMaxLength(50);
+
+                    b.Property<string>("NickName")
+                        .HasMaxLength(20);
 
                     b.Property<int>("OemId");
 
-                    b.Property<string>("Password");
+                    b.Property<string>("Phone")
+                        .HasMaxLength(50);
 
-                    b.Property<DateTime>("RegisterTime");
+                    b.Property<string>("Province")
+                        .HasMaxLength(20);
 
-                    b.Property<int>("Status");
+                    b.Property<string>("QQ")
+                        .HasMaxLength(50);
+
+                    b.Property<string>("RealName")
+                        .HasMaxLength(20);
+
+                    b.Property<string>("Region")
+                        .HasMaxLength(20);
+
+                    b.Property<int>("Source");
+
+                    b.Property<string>("Weixin")
+                        .HasMaxLength(50);
+
+                    b.Property<string>("Wid")
+                        .HasMaxLength(100);
 
                     b.HasKey("Id");
 
-                    b.ToTable("Users");
-                });
-
-            modelBuilder.Entity("DataBase.Models.UserWxInfo", b =>
-                {
-                    b.Property<long>("Id")
-                        .ValueGeneratedOnAdd();
-
-                    b.Property<string>("HeadImage")
-                        .HasMaxLength(500);
-
-                    b.Property<string>("NickName")
-                        .HasMaxLength(100);
-
-                    b.Property<string>("OpenId")
-                        .HasMaxLength(100);
-
-                    b.Property<long>("UserId");
-
-                    b.HasKey("Id");
-
-                    b.HasIndex("UserId");
-
-                    b.ToTable("UserWxInfo");
+                    b.ToTable("userinfo");
                 });
 #pragma warning restore 612, 618
         }

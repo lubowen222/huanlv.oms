@@ -1,6 +1,5 @@
 ﻿using System;
 using Surging.Core.Domain.Entities;
-using Surging.Huanlv.Domain.Core;
 
 namespace Huanlv.Passport.Domain.AggregatesModel.UserAggregate
 {
