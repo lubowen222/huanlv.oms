@@ -1,2 +1,6 @@
 /.vs
 /oms/Surging.Huanlv/.vs
+/oms/Surging.Huanlv/core/.vs
+/oms/Surging.Huanlv/core/.vscode
+/oms/Surging.Huanlv/core/Surging.ApiGateway/bin
+/oms/Surging.Huanlv/core/Surging.ApiGateway/obj
