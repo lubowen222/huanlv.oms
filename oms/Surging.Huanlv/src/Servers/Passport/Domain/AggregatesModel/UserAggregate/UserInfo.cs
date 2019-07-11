@@ -3,7 +3,7 @@ using System;
 using System.Collections.Generic;
 using System.Text;
 
-namespace Huanlv.Passport.Domain.Models
+namespace Huanlv.Passport.Domain.AggregatesModel.UserAggregate
 {
     public class UserInfo : Entity<long>
     {

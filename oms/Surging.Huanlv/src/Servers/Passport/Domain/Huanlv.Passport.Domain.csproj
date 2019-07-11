@@ -5,6 +5,12 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Compile Remove="ClassMappers\**" />
+    <EmbeddedResource Remove="ClassMappers\**" />
+    <None Remove="ClassMappers\**" />
+  </ItemGroup>
+
+  <ItemGroup>
     <Reference Include="Microsoft.Extensions.Logging.Abstractions">
       <HintPath>..\..\..\..\..\..\..\..\..\..\..\..\Program Files\dotnet\sdk\NuGetFallbackFolder\microsoft.extensions.logging.abstractions\2.1.1\lib\netstandard2.0\Microsoft.Extensions.Logging.Abstractions.dll</HintPath>
     </Reference>
@@ -18,6 +24,7 @@
     <ProjectReference Include="..\..\..\..\core\Surging.Core\Surging.Core.Protocol.Mqtt\Surging.Core.Protocol.Mqtt.csproj" />
     <ProjectReference Include="..\..\..\..\core\Surging.Core\Surging.Core.Protocol.WS\Surging.Core.Protocol.WS.csproj" />
     <ProjectReference Include="..\..\..\..\core\WebSocket\WebSocketCore\WebSocketCore.csproj" />
+    <ProjectReference Include="..\..\..\CommonComponents\Huanlv.Core\Huanlv.Core.csproj" />
     <ProjectReference Include="..\IApplication\Huanlv.Passport.IApplication.csproj" />
   </ItemGroup>
   <ItemGroup>
@@ -27,6 +34,6 @@
     <PackageReference Include="MediatR" Version="7.0.0" />
   </ItemGroup>
   <ItemGroup>
-    <Folder Include="ClassMappers\" />
+    <Folder Include="Models\" />
   </ItemGroup>
 </Project>

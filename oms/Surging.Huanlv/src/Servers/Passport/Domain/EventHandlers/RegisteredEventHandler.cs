@@ -1,5 +1,5 @@
-﻿using Huanlv.Passport.Domain.Events;
-using Huanlv.Passport.IApplication;
+﻿using Huanlv.Passport.IApplication;
+using Huanlv.Passport.IApplication.Models.Events;
 using Surging.Core.CPlatform.EventBus.Events;
 using Surging.Core.CPlatform.Utilities;
 using Surging.Core.EventBusRabbitMQ;
@@ -19,8 +19,16 @@ namespace Huanlv.Passport.Domain.EventHandlers
         {
             _accountService = ServiceLocator.GetService<IAccountService>("Account");
         }
-        public override Task Handle(RegisteredEvent @event)
+        public override async Task Handle(RegisteredEvent @event)
         {
+            Console.WriteLine($"消费1。");
+            await _accountService.RegisteredAccount(new IApplication.Models.Input.RegisteredAccountDto()
+            {
+                OemId = @event.OemId,
+                UserName = @event.UserName,
+                Password = @event.Password
+            });
+            Console.WriteLine($"消费1失败。");
             throw new NotImplementedException();
         }
     }

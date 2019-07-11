@@ -1,4 +1,5 @@
-﻿using ProtoBuf;
+﻿using Huanlv.Core.Enums.Passport;
+using ProtoBuf;
 using System;
 using System.Collections.Generic;
 using System.Text;
@@ -16,5 +17,8 @@ namespace Huanlv.Passport.IApplication.Models.Input
 
         [ProtoMember(3)]
         public string Password { get; set; }
+
+        [ProtoMember(4)]
+        public AccountSource Source { get; set; }
     }
 }

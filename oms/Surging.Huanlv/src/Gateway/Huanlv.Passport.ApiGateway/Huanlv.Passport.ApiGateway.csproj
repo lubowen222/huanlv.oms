@@ -30,7 +30,6 @@
     <ProjectReference Include="..\..\..\core\Surging.Core\Surging.Core.ProxyGenerator\Surging.Core.ProxyGenerator.csproj" />
     <ProjectReference Include="..\..\..\core\Surging.Core\Surging.Core.ServiceHosting\Surging.Core.ServiceHosting.csproj" />
     <ProjectReference Include="..\..\..\core\Surging.Core\Surging.Core.System\Surging.Core.System.csproj" />
-    <ProjectReference Include="..\..\Servers\Passport\Interface\Huanlv.Passport.Interface\Huanlv.Passport.Interface.csproj" />
   </ItemGroup>
 
   <ItemGroup>

@@ -17,13 +17,13 @@ namespace Huanlv.Passport.Application
     {
         public async Task<UserDto> GetUserById(long oemId, long id)
         {
-            var user = await GetService<IDapperRepository<User, long>>().SingleOrDefaultAsync(s => s.OemId == oemId && s.Id == id);
+            var user = await GetService<IDapperRepository<UserInfo, long>>().SingleOrDefaultAsync(s => s.OemId == oemId && s.Id == id);
             return user.MapTo<UserDto>();
         }
 
         public async Task<bool> CheckRegister(int oemId, string cellphone)
         {
-            var result = await GetService<IDapperRepository<User, long>>().FirstOrDefaultAsync(s => s.OemId == oemId && s.Cellphone == cellphone);
+            var result = await GetService<IDapperRepository<UserInfo, long>>().FirstOrDefaultAsync(s => s.OemId == oemId && s.Phone == cellphone);
             if (result == null)
                 return false;
             return true;

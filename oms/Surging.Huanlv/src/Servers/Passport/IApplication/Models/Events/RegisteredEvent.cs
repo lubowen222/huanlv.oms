@@ -1,9 +1,10 @@
-﻿using Surging.Core.CPlatform.EventBus.Events;
+﻿using Huanlv.Core.Enums.Passport;
+using Surging.Core.CPlatform.EventBus.Events;
 using System;
 using System.Collections.Generic;
 using System.Text;
 
-namespace Huanlv.Passport.Domain.Events
+namespace Huanlv.Passport.IApplication.Models.Events
 {
     public class RegisteredEvent : IntegrationEvent
     {
@@ -12,5 +13,7 @@ namespace Huanlv.Passport.Domain.Events
         public string UserName { get; set; }
 
         public string Password { get; set; }
+
+        public AccountSource Source { get; set; }
     }
 }

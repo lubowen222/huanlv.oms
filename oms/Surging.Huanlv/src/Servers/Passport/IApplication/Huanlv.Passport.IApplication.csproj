@@ -12,6 +12,7 @@
   <ItemGroup>
     <ProjectReference Include="..\..\..\..\core\Surging.Core\Surging.Core.CPlatform\Surging.Core.CPlatform.csproj" />
     <ProjectReference Include="..\..\..\..\core\Surging.Core\Surging.Core.System\Surging.Core.System.csproj" />
+    <ProjectReference Include="..\..\..\CommonComponents\Huanlv.Core\Huanlv.Core.csproj" />
   </ItemGroup>
 
 </Project>

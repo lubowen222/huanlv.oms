@@ -12,7 +12,7 @@ namespace Huanlv.Passport.ServerHost.Mapper
     {
         public MapperProfile()
         {
-            RegisterMap<UserDto, User>();
+            RegisterMap<UserDto, UserInfo>();
         }
 
         void RegisterMap<T, S>()

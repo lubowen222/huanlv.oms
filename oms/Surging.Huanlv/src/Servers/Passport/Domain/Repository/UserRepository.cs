@@ -9,35 +9,35 @@ using System.Threading.Tasks;
 
 namespace Huanlv.Passport.Domain.Repository
 {
-    public class UserRepository : ManagerBase, IUserRepository
+    public class UserRepository : ManagerBase
     {
-        private readonly IDapperRepository<User, long> _userDapperRepository;
+        private readonly IDapperRepository<UserInfo, long> _userDapperRepository;
 
         private readonly IServiceProxyProvider _serviceProxyProvider;
 
-        public UserRepository(IDapperRepository<User, long> userDapperRepository,
+        public UserRepository(IDapperRepository<UserInfo, long> userDapperRepository,
             IServiceProxyProvider serviceProxyProvider)
         {
             _userDapperRepository = userDapperRepository;
             _serviceProxyProvider = serviceProxyProvider;
         }
 
-        public Task Add(User user)
+        public Task Add(UserInfo user)
         {
             return _userDapperRepository.InsertAsync(user);
         }
 
-        public Task Update(User user)
+        public Task Update(UserInfo user)
         {
             return _userDapperRepository.UpdateAsync(user);
         }
 
-        public Task<User> GetAsync(int userId)
+        public Task<UserInfo> GetAsync(int userId)
         {
             return _userDapperRepository.GetAsync(userId);
         }
 
-        public Task<User> GetByOemIdAsync(long oemId, long userId)
+        public Task<UserInfo> GetByOemIdAsync(long oemId, long userId)
         {
             return _userDapperRepository.FirstOrDefaultAsync(s => s.OemId == oemId && s.Id == userId);
         }

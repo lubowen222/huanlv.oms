@@ -6,7 +6,7 @@ using System.Text;
 
 namespace Huanlv.Passport.Domain.AggregatesModel.ClassMappers
 {
-    public class UsersMapper : ClassMapper<User>
+    public class UsersMapper : ClassMapper<UserInfo>
     {
         public UsersMapper()
         {
