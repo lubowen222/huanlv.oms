@@ -26,10 +26,17 @@ namespace Huanlv.Passport.Domain.EventHandlers
             {
                 OemId = @event.OemId,
                 UserName = @event.UserName,
-                Password = @event.Password
+                Password = @event.Password,
+                Source = @event.Source
             });
             Console.WriteLine($"消费1失败。");
             throw new NotImplementedException();
+        }
+
+        public override Task Handled(EventContext context)
+        {
+            var model = context.Content;
+            return Task.CompletedTask;
         }
     }
 }

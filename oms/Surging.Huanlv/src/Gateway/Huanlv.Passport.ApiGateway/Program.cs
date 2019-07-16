@@ -71,27 +71,27 @@ namespace Huanlv.Passport.ApiGateway
         private static void StartRequest(int connectionCount)
         {
             // var service = ServiceLocator.GetService<IServiceProxyFactory>(); 
-            var sw = new Stopwatch();
-            sw.Start();
-            var userProxy = ServiceLocator.GetService<IServiceProxyFactory>().CreateProxy<IUserService>("User");
-            ServiceResolver.Current.Register("User", userProxy);
-            var service = ServiceLocator.GetService<IServiceProxyFactory>();
-            userProxy = ServiceResolver.Current.GetService<IUserService>("User");
-            sw.Stop();
-            Console.WriteLine($"代理所花{sw.ElapsedMilliseconds}ms");
-            ThreadPool.SetMinThreads(100, 100);
-            Parallel.For(0, connectionCount / 6000, new ParallelOptions() { MaxDegreeOfParallelism = 50 }, async u =>
-            {
-                for (var i = 0; i < 6000; i++)
-                    await Test(userProxy, connectionCount);
-            });
+            //var sw = new Stopwatch();
+            //sw.Start();
+            //var userProxy = ServiceLocator.GetService<IServiceProxyFactory>().CreateProxy<IUserService>("User");
+            //ServiceResolver.Current.Register("User", userProxy);
+            //var service = ServiceLocator.GetService<IServiceProxyFactory>();
+            //userProxy = ServiceResolver.Current.GetService<IUserService>("User");
+            //sw.Stop();
+            //Console.WriteLine($"代理所花{sw.ElapsedMilliseconds}ms");
+            //ThreadPool.SetMinThreads(100, 100);
+            //Parallel.For(0, connectionCount / 6000, new ParallelOptions() { MaxDegreeOfParallelism = 50 }, async u =>
+            //{
+            //    for (var i = 0; i < 6000; i++)
+            //        await Test(userProxy, connectionCount);
+            //});
         }
 
-        public static async Task Test(IUserService userProxy, int connectionCount)
-        {
-            var a = await userProxy.GetUserById(1, 1);
-            IncreaseSuccessConnection(connectionCount);
-        }
+        //public static async Task Test(IUserService userProxy, int connectionCount)
+        //{
+        //    var a = await userProxy.GetUserById(1, 1);
+        //    IncreaseSuccessConnection(connectionCount);
+        //}
 
         private static void IncreaseSuccessConnection(int connectionCount)
         {
